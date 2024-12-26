@@ -55,16 +55,16 @@ ORDER BY day ASC
 LIMIT 10
 
 ┌─────────────────day─┬─UpVotes─┬─DownVotes─┐
-│ 2008-07-31 00:00:00 │   	6 │     	0 │
-│ 2008-08-01 00:00:00 │ 	182 │    	50 │
-│ 2008-08-02 00:00:00 │ 	436 │   	107 │
-│ 2008-08-03 00:00:00 │ 	564 │   	100 │
-│ 2008-08-04 00:00:00 │	1306 │   	259 │
-│ 2008-08-05 00:00:00 │	1368 │   	269 │
-│ 2008-08-06 00:00:00 │	1701 │   	211 │
-│ 2008-08-07 00:00:00 │	1544 │   	211 │
-│ 2008-08-08 00:00:00 │	1241 │   	212 │
-│ 2008-08-09 00:00:00 │ 	576 │    	46 │
+│ 2008-07-31 00:00:00 │ 6       │     	0   │
+│ 2008-08-01 00:00:00 │ 182     │    	50  │
+│ 2008-08-02 00:00:00 │ 436     │   	107 │
+│ 2008-08-03 00:00:00 │ 564     │   	100 │
+│ 2008-08-04 00:00:00 │	1306    │   	259 │
+│ 2008-08-05 00:00:00 │	1368    │   	269 │
+│ 2008-08-06 00:00:00 │	1701    │   	211 │
+│ 2008-08-07 00:00:00 │	1544    │   	211 │
+│ 2008-08-08 00:00:00 │	1241    │   	212 │
+│ 2008-08-09 00:00:00 │ 576     │    	46  │
 └─────────────────────┴─────────┴───────────┘
 
 10 rows in set. Elapsed: 0.133 sec. Processed 238.98 million rows, 2.15 GB (1.79 billion rows/s., 16.14 GB/s.)
@@ -119,7 +119,7 @@ FROM up_down_votes_per_day
 FINAL
 
 ┌─count()─┐
-│	5723 │
+│	5723  │
 └─────────┘
 ```
 
@@ -149,23 +149,23 @@ GROUP BY Day
 ORDER BY Day ASC
 LIMIT 10
 ┌────────Day─┬─UpVotes─┬─DownVotes─┐
-│ 2008-07-31 │   	6 │     	0 │
-│ 2008-08-01 │ 	182 │    	50 │
-│ 2008-08-02 │ 	436 │   	107 │
-│ 2008-08-03 │ 	564 │   	100 │
-│ 2008-08-04 │	1306 │   	259 │
-│ 2008-08-05 │	1368 │   	269 │
-│ 2008-08-06 │	1701 │   	211 │
-│ 2008-08-07 │	1544 │   	211 │
-│ 2008-08-08 │	1241 │   	212 │
-│ 2008-08-09 │ 	576 │    	46 │
+│ 2008-07-31 │  6      │    0      │
+│ 2008-08-01 │ 	182    │    50     │
+│ 2008-08-02 │ 	436    │   	107    │
+│ 2008-08-03 │ 	564    │   	100    │
+│ 2008-08-04 │	1306   │   	259    │
+│ 2008-08-05 │	1368   │   	269    │
+│ 2008-08-06 │	1701   │   	211    │
+│ 2008-08-07 │	1544   │   	211    │
+│ 2008-08-08 │	1241   │   	212    │
+│ 2008-08-09 │ 	576    │    46     │
 └────────────┴─────────┴───────────┘
 
 10 rows in set. Elapsed: 0.010 sec. Processed 8.97 thousand rows, 89.68 KB (907.32 thousand rows/s., 9.07 MB/s.)
 Peak memory usage: 567.61 KiB.
 ```
 
-This has sped up our query from 0.133s to 0.004s – an over 25x improvement! 
+This has sped up our query from 0.133s to 0.004s – an improvement of over 25x! 
 
 :::important Important: `ORDER BY` = `GROUP BY`
 In most cases the columns used in the `GROUP BY` clause of the materialized views transformation, should be consistent with those used in the `ORDER BY` clause of the target table if using the `SummingMergeTree` or `AggregatingMergeTree` table engines. These engines rely on the `ORDER BY` columns to merge rows with identical values during background merge operations. Misalignment between `GROUP BY` and `ORDER BY` columns can lead to inefficient query performance, suboptimal merges, or even data discrepancies.
@@ -206,7 +206,7 @@ Peak memory usage: 658.84 MiB.
 
 As before, we can create a materialized view which executes the above query as new posts are inserted into our `posts` table. 
 
-For the purposes of example, and to avoid loading the posts data from S3, we will create a duplicate table `posts_null` with the same schema as `posts`. However, this table will not store any data and simply be used by the materialized view when rows are inserted. To prevent storage of data, we can use the [`Null` table engine type](/en/engines/table-engines/special/null).
+For the purposes of this example, and to avoid loading the posts data from S3, we will create a duplicate table `posts_null` with the same schema as `posts`. However, this table will not store any data and simply be used by the materialized view when rows are inserted. To prevent storage of data, we can use the [`Null` table engine type](/en/engines/table-engines/special/null).
 
 ```sql
 CREATE TABLE posts_null AS posts ENGINE = Null
@@ -268,7 +268,7 @@ ORDER BY Day DESC
 LIMIT 10
 ```
 
-Note we use a `GROUP BY` here instead of using `FINAL`.
+Note we use a `GROUP BY` clause here instead of using the `FINAL` keyword.
 
 ## Using Source Table in Filters and Joins in Materialized Views
 
@@ -321,12 +321,11 @@ In `mvw1`, table `t0` is directly referenced inside a `(SELECT * FROM t0)` subqu
 
 In the second case with joining `vt0`, the view reads all the data from `t0`. This ensures that the join operation considers all rows in `t0`, not just the newly inserted block.
 
-### Why This Works Like That
+### Understanding Why
 
 The key difference lies in how ClickHouse handles the source table in the materialized view's query. When a materialized view is triggered by an insert, the source table (`t0` in this case) is replaced by the inserted block of data. This behavior can be leveraged to optimize queries but also requires careful consideration to avoid unexpected results.
 
 ### Use Cases and Caveats
-
 
 In practice, you may use this behavior to optimize materialized views that only need to process a subset of the source table's data. For example, you can use a subquery to filter the source table before joining it with other tables. This can help reduce the amount of data processed by the materialized view and improve performance.
 
@@ -344,7 +343,7 @@ JOIN (SELECT * FROM t1 WHERE t1.id IN (SELECT id FROM t0)) AS t1
 ON t0.id = t1.id;
 ```
 
-In this example, set build from the `IN (SELECT id FROM t0)` subquery has only the newly inserted rows, which can help to filter `t1` against it.
+In this example, setting build from the `IN (SELECT id FROM t0)` subquery has only the newly inserted rows, which can help to filter `t1` against it.
 
 ## Other applications
 

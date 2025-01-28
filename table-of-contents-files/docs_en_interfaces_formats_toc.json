@@ -1,0 +1,214 @@
+[
+    {
+        "title": "Null",
+        "slug": "/en/interfaces/formats/Null",
+        "keywords": [
+            "Null"
+        ],
+        "input_format": false,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "Form",
+        "slug": "/en/interfaces/formats/Form",
+        "keywords": [
+            "Form"
+        ],
+        "input_format": true,
+        "output_format": false,
+        "alias": []
+    },
+    {
+        "title": "XML",
+        "slug": "/en/interfaces/formats/XML",
+        "keywords": [
+            "XML"
+        ],
+        "input_format": false,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "MySQLWire",
+        "slug": "/en/interfaces/formats/MySQLWire",
+        "keywords": [
+            "MySQLWire"
+        ]
+    },
+    {
+        "title": "Markdown",
+        "slug": "/en/interfaces/formats/Markdown",
+        "keywords": [
+            "Markdown"
+        ]
+    },
+    {
+        "title": "RawBLOB",
+        "slug": "/en/interfaces/formats/RawBLOB",
+        "keywords": [
+            "RawBLOB"
+        ]
+    },
+    {
+        "title": "MsgPack",
+        "slug": "/en/interfaces/formats/MsgPack",
+        "keywords": [
+            "MsgPack"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "Prometheus",
+        "slug": "/en/interfaces/formats/Prometheus",
+        "keywords": [
+            "Prometheus"
+        ],
+        "input_format": false,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "ODBCDriver2",
+        "slug": "/en/interfaces/formats/ODBCDriver2",
+        "keywords": [
+            "ODBCDriver2"
+        ]
+    },
+    {
+        "title": "BSONEachRow",
+        "slug": "/en/interfaces/formats/BSONEachRow",
+        "keywords": [
+            "BSONEachRow"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "Values",
+        "slug": "/en/interfaces/formats/Values",
+        "keywords": [
+            "Values"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "One",
+        "slug": "/en/interfaces/formats/One",
+        "keywords": [
+            "One"
+        ],
+        "input_format": true,
+        "output_format": false,
+        "alias": []
+    },
+    {
+        "title": "HiveText",
+        "slug": "/en/interfaces/formats/HiveText",
+        "keywords": [
+            "HiveText"
+        ]
+    },
+    {
+        "title": "PostgreSQLWire",
+        "slug": "/en/interfaces/formats/PostgreSQLWire",
+        "keywords": [
+            "PostgreSQLWire"
+        ]
+    },
+    {
+        "title": "DWARF",
+        "slug": "/en/interfaces/formats/DWARF",
+        "keywords": [
+            "DWARF"
+        ],
+        "input_format": true,
+        "output_format": false,
+        "alias": []
+    },
+    {
+        "title": "MySQLDump",
+        "slug": "/en/interfaces/formats/MySQLDump",
+        "keywords": [
+            "MySQLDump"
+        ],
+        "input_format": true,
+        "output_format": false,
+        "alias": []
+    },
+    {
+        "title": "CapnProto",
+        "slug": "/en/interfaces/formats/CapnProto",
+        "keywords": [
+            "CapnProto"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "ORC",
+        "slug": "/en/interfaces/formats/ORC",
+        "keywords": [
+            "ORC"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "Npy",
+        "slug": "/en/interfaces/formats/Npy",
+        "keywords": [
+            "Npy"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "Regexp",
+        "slug": "/en/interfaces/formats/Regexp",
+        "keywords": [
+            "Regexp"
+        ],
+        "input_format": true,
+        "output_format": false,
+        "alias": []
+    },
+    {
+        "title": "Vertical",
+        "slug": "/en/interfaces/formats/Vertical",
+        "keywords": [
+            "Vertical"
+        ],
+        "input_format": false,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "Native",
+        "slug": "/en/interfaces/formats/Native",
+        "keywords": [
+            "Native"
+        ],
+        "input_format": true,
+        "output_format": true,
+        "alias": []
+    },
+    {
+        "title": "SQLInsert",
+        "slug": "/en/interfaces/formats/SQLInsert",
+        "keywords": [
+            "SQLInsert"
+        ],
+        "input_format": false,
+        "output_format": true,
+        "alias": []
+    }
+]

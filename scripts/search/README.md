@@ -33,11 +33,11 @@ options:
 
 | **Date**   | **Average nDCG** | **Results**                                                                                            | **Changes**                                      |
 |------------|------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 20/01/2024 | 0.4700           | [View Results](https://pastila.nl/?008231f5/bc107912f8a5074d70201e27b1a66c6c#cB/yJOsZPOWi9h8xAkuTUQ==) | Baseline                                         |
-| 21/01/2024 | 0.5021           | [View Results](https://pastila.nl/?00bb2c2f/936a9a3af62a9bdda186af5f37f55782#m7Hg0i9F1YCesMW6ot25yA==) | Index `_` character and move language to English |
-| 24/01/2024 | 0.7072           | [View Results](https://pastila.nl/?065e3e67/e4ad889d0c166226118e6160b4ee53ff#x1NPd2R7hU90CZvvrE4nhg==) | Process markdown, and tune settings.             |
-| 24/01/2024 | 0.7412           | [View Results](https://pastila.nl/?0020013d/e69b33aaae82e49bc71c5ee2cea9ad46#pqq3VtRd4eP4JM5/izcBcA==) | Include manual promotions for ambigious terms.   |
-
+| 20/01/2025 | 0.4700           | [View Results](https://pastila.nl/?008231f5/bc107912f8a5074d70201e27b1a66c6c#cB/yJOsZPOWi9h8xAkuTUQ==) | Baseline                                         |
+| 21/01/2025 | 0.5021           | [View Results](https://pastila.nl/?00bb2c2f/936a9a3af62a9bdda186af5f37f55782#m7Hg0i9F1YCesMW6ot25yA==) | Index `_` character and move language to English |
+| 24/01/2025 | 0.7072           | [View Results](https://pastila.nl/?065e3e67/e4ad889d0c166226118e6160b4ee53ff#x1NPd2R7hU90CZvvrE4nhg==) | Process markdown, and tune settings.             |
+| 24/01/2025 | 0.7412           | [View Results](https://pastila.nl/?0020013d/e69b33aaae82e49bc71c5ee2cea9ad46#pqq3VtRd4eP4JM5/izcBcA==) | Include manual promotions for ambigious terms.   |
+| 24/02/2025 | 0.6804 | [View Results](https://pastila.nl/?00a084fc/3e662aa022a728ee674e77dfe0c7d8a0#iF+67ei7UdWjYY+q8vXLVA==) | I18n changes (`/docs/en` -> `/docs`)|
 Note: exact scores may vary due to constant content changes.
 
 ## Issues

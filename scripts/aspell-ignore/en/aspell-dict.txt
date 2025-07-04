@@ -193,7 +193,7 @@ ClickPy
 ClickStack
 ClickVisual
 ClickableSquare
-CloudAvailableBadge
+CloudOnlyBadge
 CloudDetails
 CloudFormation
 CloudNotSupportedBadge

@@ -771,7 +771,6 @@ const sidebars = {
         "integrations/data-ingestion/s3-minio",
         "integrations/data-sources/deltalake",
         "integrations/data-sources/rocksdb",
-        "integrations/data-visualization/splunk-and-clickhouse",
         "integrations/data-sources/sqlite",
         "integrations/data-sources/nats",
         "integrations/data-ingestion/emqx/index",

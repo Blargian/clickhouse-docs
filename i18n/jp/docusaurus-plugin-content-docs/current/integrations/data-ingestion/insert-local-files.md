@@ -4,7 +4,6 @@ sidebar_position: 2
 title: 'ローカルファイルの挿入'
 slug: /integrations/data-ingestion/insert-local-files
 description: 'ローカルファイルの挿入について学びます'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['insert local files ClickHouse', 'ClickHouse local file import', 'clickhouse-client file upload']
 ---

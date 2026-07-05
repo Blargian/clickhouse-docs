@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、ClickHouse Client または clickhouse-local で AI を使用して SQL クエリを生成する方法について説明します。'
 keywords: ['AI', 'SQL generation']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: '분석 함수'
 description: 'ClickHouse에서 시계열 데이터를 분석하기 위한 함수입니다.'
 slug: /use-cases/time-series/analysis-functions
 keywords: ['시계열', '분석 함수', '윈도 함수', '집계 함수', '이동 평균', '추세 분석']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

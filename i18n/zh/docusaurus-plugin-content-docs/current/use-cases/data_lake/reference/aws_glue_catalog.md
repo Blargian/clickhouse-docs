@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '在本指南中，我们将逐步介绍如何使用 ClickHouse 和 AWS Glue 数据目录查询 S3 存储桶中的数据。'
 keywords: ['Glue', 'Data Lake']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

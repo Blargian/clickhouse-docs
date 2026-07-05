@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このページは Model Context Protocol (MCP) の概要を紹介し、MCP ガイドの目次を提供します。'
 keywords: ['ClickHouse', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

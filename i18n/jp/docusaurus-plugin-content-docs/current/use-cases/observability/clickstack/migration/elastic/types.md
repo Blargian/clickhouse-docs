@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '型'
 sidebar_position: 2
 description: 'ClickHouse と Elasticsearch における型のマッピング'
-show_related_blogs: true
 keywords: ['JSON', 'Codecs']
 doc_type: 'reference'
 ---

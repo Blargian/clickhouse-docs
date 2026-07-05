@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Learn how to build an agentic application using data stored in ClickHouse with ClickHouse MCP and CopilotKit'
 keywords: ['ClickHouse', 'MCP', 'copilotkit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: '查询 Pandas'
 slug: /chdb/guides/pandas
 description: '学习如何使用 chDB 查询 Pandas DataFrame'
 keywords: ['chDB', 'Pandas']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

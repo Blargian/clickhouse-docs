@@ -5,7 +5,6 @@ sidebar_label: 'Github repo'
 slug: /getting-started/example-datasets/github
 title: 'Writing queries in ClickHouse using GitHub data'
 keywords: ['Github']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

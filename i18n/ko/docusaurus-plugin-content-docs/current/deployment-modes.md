@@ -4,7 +4,6 @@ sidebar_label: '배포 방식'
 description: 'ClickHouse는 동일한 강력한 데이터베이스 엔진을 사용하면서, 다양한 요구 사항에 맞게 패키징 방식만 다른 다섯 가지 배포 옵션을 제공합니다.'
 title: '배포 방식'
 keywords: ['배포 방식', 'chDB']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

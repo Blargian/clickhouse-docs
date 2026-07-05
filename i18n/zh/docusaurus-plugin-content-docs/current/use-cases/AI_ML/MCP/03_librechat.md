@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本指南介绍如何使用 Docker 设置 LibreChat 与 ClickHouse MCP 服务器。'
 keywords: ['AI', 'Librechat', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCP 서버를 사용하여 ClickHouse의 SQL 플레이그라운드와 상호 작용할 수 있는 LangChain/LangGraph AI 에이전트를 구축하는 방법을 알아봅니다.'
 keywords: ['ClickHouse', 'MCP', 'LangChain', 'LangGraph']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

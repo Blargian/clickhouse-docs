@@ -5,7 +5,6 @@ slug: /integrations/metabase
 keywords: ['Metabase']
 description: 'Metabase 是一款易于使用的开源 UI 工具，用于对数据进行查询和分析。'
 title: '将 Metabase 连接到 ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

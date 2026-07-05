@@ -5,7 +5,6 @@ slug: /integrations/metabase
 keywords: ['Metabase']
 description: 'Metabase — это простой в использовании UI-инструмент с открытым исходным кодом для анализа ваших данных.'
 title: 'Подключение Metabase к ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

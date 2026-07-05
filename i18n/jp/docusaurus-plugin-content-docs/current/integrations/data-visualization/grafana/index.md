@@ -4,7 +4,6 @@ sidebar_position: 1
 slug: /integrations/grafana
 description: 'Grafana で ClickHouse を利用するための入門'
 title: 'Grafana 用 ClickHouse データソースプラグイン'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'core'

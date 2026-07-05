@@ -3,7 +3,6 @@ slug: /migrations/postgresql/dataset
 title: 'データの移行'
 description: 'PostgreSQL から ClickHouse へ移行するためのデータセットの例'
 keywords: ['Postgres']
-show_related_blogs: true
 sidebar_label: 'パート 1'
 doc_type: 'guide'
 ---

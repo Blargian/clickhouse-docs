@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Chainlit と ClickHouse MCPサーバー を組み合わせて、LLM ベースのチャットアプリを構築する方法について学びます'
 keywords: ['ClickHouse', 'MCP', 'Chainlit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

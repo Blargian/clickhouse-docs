@@ -7,7 +7,6 @@ pagination_next: null
 description: 'В этом руководстве мы пошагово разберём, как выполнять запросы
 к данным в S3-бакетах с помощью ClickHouse и Unity Catalog.'
 keywords: ['Unity', 'озера данных']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

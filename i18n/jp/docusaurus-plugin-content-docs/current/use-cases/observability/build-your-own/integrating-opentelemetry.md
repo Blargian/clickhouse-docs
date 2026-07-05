@@ -3,7 +3,6 @@ title: 'データ収集のためのOpenTelemetryの統合'
 description: 'OpenTelemetry と ClickHouse を統合してオブザーバビリティを実現する'
 slug: /observability/integrating-opentelemetry
 keywords: ['オブザーバビリティ', 'OpenTelemetry']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -5,7 +5,6 @@ slug: /integrations/dynamodb
 description: 'С помощью ClickPipes можно подключить ClickHouse к DynamoDB.'
 keywords: ['DynamoDB']
 title: 'CDC из DynamoDB в ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

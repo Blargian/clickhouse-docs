@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用 Microsoft Agent framework 和 ClickHouse MCP server 构建 AI 智能体'
 keywords: ['ClickHouse', 'MCP', 'Microsoft']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

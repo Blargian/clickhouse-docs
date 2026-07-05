@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Types'
 sidebar_position: 2
 description: 'Mapping types in ClickHouse and Elasticsearch'
-show_related_blogs: true
 keywords: ['JSON', 'Codecs']
 doc_type: 'reference'
 ---

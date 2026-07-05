@@ -3,7 +3,6 @@ slug: /integrations/postgresql/connecting-to-postgresql
 title: 'Подключение ClickHouse к PostgreSQL'
 keywords: ['clickhouse', 'postgres', 'postgresql', 'connect', 'integrate', 'table', 'engine']
 description: 'Страница, описывающая различные способы подключения PostgreSQL к ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

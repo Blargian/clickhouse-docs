@@ -3,7 +3,6 @@ title: '관측성을 위한 스키마 설계'
 description: '관측성을 위한 스키마 설계'
 keywords: ['관측성', '로그', '트레이스', '메트릭', 'OpenTelemetry', 'Grafana', 'OTel']
 slug: /use-cases/observability/schema-design
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

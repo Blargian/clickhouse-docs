@@ -4,7 +4,6 @@ sidebar_position: 220
 slug: /integrations/vector
 description: '如何使用 Vector 跟踪日志文件并写入 ClickHouse'
 title: '将 Vector 与 ClickHouse 集成'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

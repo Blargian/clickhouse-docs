@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве объясняется, как настроить AnythingLLM для работы с сервером ClickHouse MCP с использованием Docker.'
 keywords: ['AI', 'AnythingLLM', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

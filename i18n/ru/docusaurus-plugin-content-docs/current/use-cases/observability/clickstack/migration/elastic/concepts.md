@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Эквивалентные понятия'
 sidebar_position: 1
 description: 'Эквивалентные понятия: ClickStack и Elastic'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'reference'
 ---

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '在 ClickHouse Cloud 控制台中启用和使用 AI Chat 功能的指南'
 keywords: ['AI', 'ClickHouse Cloud', 'Chat', 'SQL 控制台', 'Agent', 'Docs AI']
-show_related_blogs: true
 sidebar_position: 2
 doc_type: 'guide'
 ---

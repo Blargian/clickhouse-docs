@@ -4,7 +4,6 @@ sidebar_label: 'Query performance'
 description: 'Improving time-series query performance'
 slug: /use-cases/time-series/query-performance
 keywords: ['time-series', 'query performance', 'optimization', 'indexing', 'partitioning', 'query tuning', 'performance']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -7,7 +7,6 @@ pagination_next: null
 description: '本指南将逐步介绍如何使用 ClickHouse 和 Lakehouse 运行时目录 (BigLake Metastore) 查询
  Google Cloud Storage 中的数据。'
 keywords: ['BigLake', 'GCS', '数据湖', 'Iceberg', 'Google Cloud', 'Lakehouse 运行时目录']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

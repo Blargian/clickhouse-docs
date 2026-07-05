@@ -5,7 +5,6 @@ slug: /integrations/zingdata
 keywords: ['Zing Data']
 description: 'Zing Data는 iOS, Android 및 웹을 위해 만들어진, ClickHouse용 간편한 소셜 비즈니스 인텔리전스입니다.'
 title: 'Zing Data를 ClickHouse와 연결하기'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
    - support_level: 'community'

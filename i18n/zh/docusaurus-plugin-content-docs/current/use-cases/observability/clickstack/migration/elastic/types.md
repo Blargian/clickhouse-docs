@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '类型'
 sidebar_position: 2
 description: 'ClickHouse 与 Elasticsearch 中的映射类型'
-show_related_blogs: true
 keywords: ['JSON', 'Codecs']
 doc_type: 'reference'
 ---

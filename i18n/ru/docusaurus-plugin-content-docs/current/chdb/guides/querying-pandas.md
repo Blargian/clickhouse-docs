@@ -4,7 +4,6 @@ sidebar_label: 'Запросы к Pandas'
 slug: /chdb/guides/pandas
 description: 'Узнайте, как выполнять запросы к датафреймам Pandas с помощью chDB'
 keywords: ['chDB', 'Pandas']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

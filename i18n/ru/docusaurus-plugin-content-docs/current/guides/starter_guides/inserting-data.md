@@ -4,7 +4,6 @@ description: 'Как добавлять данные в ClickHouse'
 keywords: ['INSERT', 'Пакетная вставка']
 sidebar_label: 'Добавление данных в ClickHouse'
 slug: /guides/inserting-data
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

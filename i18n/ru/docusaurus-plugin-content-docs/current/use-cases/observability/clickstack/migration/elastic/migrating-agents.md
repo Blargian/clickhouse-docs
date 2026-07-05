@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Миграция агентов'
 sidebar_position: 5
 description: 'Миграция агентов из Elastic'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Руководство по включению и использованию функции чата AI Chat в консоли ClickHouse Cloud'
 keywords: ['AI', 'ClickHouse Cloud', 'Chat', 'SQL Console', 'Agent', 'Docs AI']
-show_related_blogs: true
 sidebar_position: 2
 doc_type: 'guide'
 ---

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве объясняется, как включить и использовать удалённый MCP-сервер ClickHouse Cloud'
 keywords: ['AI', 'ClickHouse Cloud', 'MCP']
-show_related_blogs: true
 sidebar_position: 1
 doc_type: 'guide'
 ---

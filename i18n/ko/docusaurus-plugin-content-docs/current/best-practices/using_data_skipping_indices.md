@@ -5,7 +5,6 @@ sidebar_label: '데이터 스키핑 인덱스'
 title: '데이터 스키핑 인덱스를 적절하게 사용하기'
 description: '데이터 스키핑 인덱스를 어떻게 그리고 언제 사용해야 하는지 설명하는 페이지'
 keywords: ['데이터 스키핑 인덱스', '스킵 인덱스']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

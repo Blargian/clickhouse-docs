@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать агента ИИ с помощью CrewAI и сервера ClickHouse MCP'
 keywords: ['ClickHouse', 'MCP', 'CrewAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

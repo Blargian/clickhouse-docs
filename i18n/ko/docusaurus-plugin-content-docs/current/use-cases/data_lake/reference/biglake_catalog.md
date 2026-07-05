@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '이 가이드에서는 ClickHouse와 Lakehouse 런타임 카탈로그(BigLake 메타스토어)를 사용하여 Google Cloud Storage에 있는 데이터를 쿼리하는 단계를 안내합니다.'
 keywords: ['BigLake', 'GCS', 'Data Lake', 'Iceberg', 'Google Cloud', 'Lakehouse Runtime Catalog']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

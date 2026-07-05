@@ -3,7 +3,6 @@ slug: /migrations/postgresql/dataset
 title: '데이터 마이그레이션'
 description: 'PostgreSQL에서 ClickHouse로 마이그레이션하기 위한 데이터셋 예제'
 keywords: ['Postgres']
-show_related_blogs: true
 sidebar_label: '1부'
 doc_type: 'guide'
 ---

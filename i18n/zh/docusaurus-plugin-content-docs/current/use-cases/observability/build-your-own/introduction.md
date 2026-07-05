@@ -3,7 +3,6 @@ title: '使用 ClickHouse 实现可观测性'
 description: '将 ClickHouse 用作可观测性解决方案'
 slug: /use-cases/observability/introduction
 keywords: ['可观测性', '日志', '链路追踪', '指标', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

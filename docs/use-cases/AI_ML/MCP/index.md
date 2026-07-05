@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'This page provides an intro to Model Context Protocol (MCP) and has a table of contents for MCP guides.'
 keywords: ['ClickHouse', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

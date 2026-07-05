@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать ИИ-агента LlamaIndex, который может взаимодействовать с MCP-сервером ClickHouse.'
 keywords: ['ClickHouse', 'MCP', 'LlamaIndex']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

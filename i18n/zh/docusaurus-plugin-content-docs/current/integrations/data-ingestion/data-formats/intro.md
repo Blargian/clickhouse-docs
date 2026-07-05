@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['clickhouse', 'CSV', 'TSV', 'Parquet', 'clickhouse-client', 'clickhouse-local']
 title: '从多种数据格式向 ClickHouse 导入数据'
 description: '介绍如何将多种数据格式的数据导入 ClickHouse 的页面'
-show_related_blogs: true
 doc_type: '指南'
 ---
 

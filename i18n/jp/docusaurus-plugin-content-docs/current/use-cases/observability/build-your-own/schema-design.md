@@ -3,7 +3,6 @@ title: 'オブザーバビリティのためのスキーマ設計'
 description: 'オブザーバビリティのためのスキーマ設計'
 keywords: ['オブザーバビリティ', 'ログ', 'トレース', 'メトリクス', 'OpenTelemetry', 'Grafana', 'OTel']
 slug: /use-cases/observability/schema-design
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

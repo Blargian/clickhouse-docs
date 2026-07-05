@@ -4,7 +4,6 @@ sidebar_label: '쿼리 성능'
 description: '시계열 쿼리 성능 향상'
 slug: /use-cases/time-series/query-performance
 keywords: ['시계열', '쿼리 성능', '최적화', '인덱싱', '파티셔닝', '쿼리 튜닝', '성능']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

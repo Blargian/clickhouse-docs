@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '이 가이드는 ClickHouse Client 또는 clickhouse-local에서 AI를 사용하여 SQL 쿼리를 생성하는 방법을 설명합니다.'
 keywords: ['AI', 'SQL generation']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

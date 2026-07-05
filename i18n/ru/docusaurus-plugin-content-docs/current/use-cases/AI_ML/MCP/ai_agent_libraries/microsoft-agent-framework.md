@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать AI-агента с помощью Microsoft Agent framework и ClickHouse MCP server'
 keywords: ['ClickHouse', 'MCP', 'Microsoft']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

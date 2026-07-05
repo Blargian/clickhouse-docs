@@ -7,7 +7,6 @@ pagination_next: null
 description: '本指南将逐步介绍如何使用 ClickHouse 和 Snowflake Polaris 目录
  查询您的数据。'
 keywords: ['Polaris', 'Snowflake', '数据湖']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

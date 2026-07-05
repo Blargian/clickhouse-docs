@@ -3,7 +3,6 @@ sidebar_label: 'Генерация случайных тестовых данн�
 title: 'Генерация случайных тестовых данных в ClickHouse'
 slug: /guides/generating-test-data
 description: 'Узнайте о генерации случайных тестовых данных в ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['случайные данные', 'тестовые данные']
 ---

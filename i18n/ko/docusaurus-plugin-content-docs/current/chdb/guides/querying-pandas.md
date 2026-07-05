@@ -4,7 +4,6 @@ sidebar_label: 'Pandas 쿼리하기'
 slug: /chdb/guides/pandas
 description: 'chDB로 Pandas DataFrame을 쿼리하는 방법을 알아봅니다'
 keywords: ['chDB', 'Pandas']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

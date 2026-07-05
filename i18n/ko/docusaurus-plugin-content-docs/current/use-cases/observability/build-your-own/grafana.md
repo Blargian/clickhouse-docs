@@ -3,7 +3,6 @@ title: '관측성을 위해 Grafana와 ClickHouse를 사용하기'
 description: '관측성을 위해 Grafana와 ClickHouse를 사용하기'
 slug: /observability/grafana
 keywords: ['관측성', '로그', '트레이스', '메트릭', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

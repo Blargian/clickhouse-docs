@@ -5,7 +5,6 @@ slug: /integrations/zingdata
 keywords: ['Zing Data']
 description: 'Zing Data 是面向 ClickHouse 的简单易用的社交化商业智能工具，适用于 iOS、Android 和 Web。'
 title: '将 Zing Data 连接到 ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
    - support_level: 'community'

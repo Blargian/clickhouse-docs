@@ -4,7 +4,6 @@ slug: /migrations/snowflake-translation-reference
 description: 'SQL 변환 참고 자료'
 keywords: ['Snowflake']
 title: 'Snowflake에서 ClickHouse로 마이그레이션하기'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -3,7 +3,6 @@ title: '데이터 수집을 위한 OpenTelemetry 통합'
 description: '관측성을 위한 OpenTelemetry와 ClickHouse 통합'
 slug: /observability/integrating-opentelemetry
 keywords: ['관측성', 'OpenTelemetry']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

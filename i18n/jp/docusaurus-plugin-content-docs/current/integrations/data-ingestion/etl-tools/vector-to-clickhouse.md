@@ -4,7 +4,6 @@ sidebar_position: 220
 slug: /integrations/vector
 description: 'Vector でログファイルをテールして ClickHouse に取り込む方法'
 title: 'Vector と ClickHouse の連携'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

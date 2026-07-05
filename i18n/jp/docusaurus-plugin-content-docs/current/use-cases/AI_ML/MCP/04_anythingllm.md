@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、Docker を使用して ClickHouse MCPサーバーと連携する AnythingLLM をセットアップする方法を説明します。'
 keywords: ['AI', 'AnythingLLM', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

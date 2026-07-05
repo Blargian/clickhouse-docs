@@ -3,7 +3,6 @@ title: 'オブザーバビリティに ClickHouse を使用する'
 description: 'ClickHouse をオブザーバビリティソリューションとして利用する'
 slug: /use-cases/observability/introduction
 keywords: ['observability', 'logs', 'traces', 'metrics', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

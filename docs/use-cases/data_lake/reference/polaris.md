@@ -7,7 +7,6 @@ pagination_next: null
 description: 'In this guide, we will walk you through the steps to query
  your data using ClickHouse and the Snowflake Polaris catalog.'
 keywords: ['Polaris', 'Snowflake', 'Data Lake']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

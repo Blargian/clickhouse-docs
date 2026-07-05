@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Equivalent concepts'
 sidebar_position: 1
 description: 'Equivalent concepts - ClickStack and Elastic'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'reference'
 ---

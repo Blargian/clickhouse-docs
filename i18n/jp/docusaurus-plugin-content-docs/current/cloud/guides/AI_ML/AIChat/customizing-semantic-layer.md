@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'AGENTS.md を使用して、ClickHouse Assistant チャットエージェントにカスタムビジネスロジックとデータ特有の指示を与えるためのガイド'
 keywords: ['AI', 'ClickHouse Cloud', 'エージェント', 'AGENTS.md', 'セマンティックレイヤー', 'カスタムインストラクション', 'システムプロンプト']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

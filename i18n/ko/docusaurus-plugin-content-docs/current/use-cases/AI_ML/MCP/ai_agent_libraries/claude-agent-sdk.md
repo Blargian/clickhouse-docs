@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Claude Agent SDK와 ClickHouse MCP 서버로 AI 에이전트를 구축하는 방법'
 keywords: ['ClickHouse', 'MCP', 'Claude']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -5,7 +5,6 @@ sidebar_label: 'Use materialized views'
 title: 'Use materialized views'
 description: 'Page describing Materialized Views'
 keywords: ['materialized views', 'medallion architecture']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'This guide explains how to set up LibreChat with a ClickHouse MCP server using Docker.'
 keywords: ['AI', 'Librechat', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -3,7 +3,6 @@ slug: /migrations/postgresql/data-modeling-techniques
 title: '数据建模方法'
 description: '从 PostgreSQL 迁移到 ClickHouse 指南（第三部分）'
 keywords: ['postgres', 'postgresql']
-show_related_blogs: true
 sidebar_label: '第 3 部分'
 doc_type: 'guide'
 ---

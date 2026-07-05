@@ -3,7 +3,6 @@ title: 'オブザーバビリティにおける Grafana と ClickHouse の活用
 description: 'オブザーバビリティにおける Grafana と ClickHouse の活用'
 slug: /observability/grafana
 keywords: ['オブザーバビリティ', 'ログ', 'トレース', 'メトリクス', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

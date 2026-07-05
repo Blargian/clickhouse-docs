@@ -5,7 +5,6 @@ sidebar_label: 'Минимизация и оптимизация операци�
 title: 'Минимизация и оптимизация операций JOIN'
 description: 'Документ с рекомендациями по использованию операций JOIN в ClickHouse'
 keywords: ['JOIN', 'Parallel Hash JOIN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

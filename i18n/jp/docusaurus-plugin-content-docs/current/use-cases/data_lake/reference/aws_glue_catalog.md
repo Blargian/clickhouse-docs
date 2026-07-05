@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、ClickHouse と AWS Glue データカタログを使用して、S3 バケット内のデータをクエリする手順を順を追って説明します。'
 keywords: ['Glue', 'Data Lake']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

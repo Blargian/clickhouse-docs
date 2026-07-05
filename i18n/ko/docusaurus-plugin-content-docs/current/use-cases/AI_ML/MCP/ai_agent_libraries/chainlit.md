@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCP 서버와 함께 Chainlit을 사용하여 LLM 기반 채팅 앱을 구축하는 방법을 배웁니다'
 keywords: ['ClickHouse', 'MCP', 'Chainlit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

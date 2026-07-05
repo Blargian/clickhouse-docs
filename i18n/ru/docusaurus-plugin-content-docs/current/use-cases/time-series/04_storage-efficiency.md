@@ -4,7 +4,6 @@ sidebar_label: 'Эффективность хранения'
 description: 'Повышение эффективности хранения временных рядов'
 slug: /use-cases/time-series/storage-efficiency
 keywords: ['временные ряды', 'эффективность хранения', 'сжатие', 'хранение данных', 'TTL', 'оптимизация хранения', 'использование диска']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

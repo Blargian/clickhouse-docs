@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、ClickHouse MCPサーバー を使用して Jan.ai を設定する方法を説明します。'
 keywords: ['AI', 'Jan.ai', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

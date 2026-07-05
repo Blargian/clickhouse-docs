@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать агентное приложение, используя данные, хранящиеся в ClickHouse, с помощью ClickHouse MCP и CopilotKit'
 keywords: ['ClickHouse', 'MCP', 'copilotkit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

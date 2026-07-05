@@ -4,7 +4,6 @@ sidebar_label: '分析函数'
 description: '在 ClickHouse 中分析时序数据的函数。'
 slug: /use-cases/time-series/analysis-functions
 keywords: ['时序', '分析函数', '窗口函数', '聚合函数', '移动平均', '趋势分析']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

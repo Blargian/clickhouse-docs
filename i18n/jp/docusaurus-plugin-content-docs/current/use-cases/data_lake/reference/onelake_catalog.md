@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、Microsoft OneLake 内のデータに対してクエリを実行する手順を順を追って説明します。'
 keywords: ['OneLake', 'データレイク', 'Fabric']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

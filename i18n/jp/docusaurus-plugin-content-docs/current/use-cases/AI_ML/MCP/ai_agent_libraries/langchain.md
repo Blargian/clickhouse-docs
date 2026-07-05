@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse の ClickHouse MCPサーバー を使用して、ClickHouse の SQL playground と対話できる LangChain/LangGraph AI エージェントの構築方法を学びます。'
 keywords: ['ClickHouse', 'MCP', 'LangChain', 'LangGraph']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

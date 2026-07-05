@@ -7,7 +7,6 @@ pagination_next: null
 description: 'このガイドでは、ClickHouse と Unity Catalog を使用して
  S3 バケット内のデータにクエリを実行する方法を説明します。'
 keywords: ['Unity', 'データレイク']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

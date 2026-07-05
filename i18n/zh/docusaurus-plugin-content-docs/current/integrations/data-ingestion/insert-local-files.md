@@ -4,7 +4,6 @@ sidebar_position: 2
 title: '插入本地文件'
 slug: /integrations/data-ingestion/insert-local-files
 description: '了解插入本地文件'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['插入本地文件 ClickHouse', 'ClickHouse 本地文件导入', 'clickhouse-client 文件上传']
 ---

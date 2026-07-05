@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'AGENTS.md를 사용하여 ClickHouse Assistant 채팅 에이전트에 사용자 지정 비즈니스 로직과 데이터별 지침을 제공하는 방법에 대한 가이드'
 keywords: ['AI', 'ClickHouse Cloud', 'Agent', 'AGENTS.md', 'Semantic Layer', 'Custom Instructions', 'System Prompt']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

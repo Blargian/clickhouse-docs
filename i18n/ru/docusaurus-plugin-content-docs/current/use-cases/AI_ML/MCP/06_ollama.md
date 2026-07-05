@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве описано, как настроить Ollama с сервером ClickHouse MCP.'
 keywords: ['AI', 'Ollama', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

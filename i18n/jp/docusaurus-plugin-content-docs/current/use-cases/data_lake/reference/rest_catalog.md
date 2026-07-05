@@ -7,7 +7,6 @@ pagination_next: null
 description: 'このガイドでは、ClickHouse と REST カタログを使用して
  データに対してクエリを実行する手順を説明します。'
 keywords: ['REST', 'Tabular', 'データレイク', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

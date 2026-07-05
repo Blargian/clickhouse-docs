@@ -5,7 +5,6 @@ sidebar_label: 'Выбор первичного ключа'
 title: 'Выбор первичного ключа'
 description: 'Страница о том, как выбрать первичный ключ в ClickHouse'
 keywords: ['primary key']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

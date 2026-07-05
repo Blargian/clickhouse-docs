@@ -7,7 +7,6 @@ pagination_next: null
 description: 'В этом руководстве мы расскажем, как выполнять запросы
  к вашим данным с помощью ClickHouse и каталога Lakekeeper.'
 keywords: ['Lakekeeper', 'REST', 'Tabular', 'Data Lake', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

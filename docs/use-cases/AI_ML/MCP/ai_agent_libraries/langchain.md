@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Learn how to build a LangChain/LangGraph AI agent that can interact with ClickHouse''s SQL playground using ClickHouse''s MCP server.'
 keywords: ['ClickHouse', 'MCP', 'LangChain', 'LangGraph']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

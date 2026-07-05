@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве объясняется, как настроить Claude Desktop для работы с MCP-сервером ClickHouse.'
 keywords: ['AI', 'Librechat', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

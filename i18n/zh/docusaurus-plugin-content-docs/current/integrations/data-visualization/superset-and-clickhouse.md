@@ -5,7 +5,6 @@ slug: /integrations/superset
 keywords: ['superset']
 description: 'Apache Superset 是一个开源的数据探索和可视化平台。'
 title: '将 Superset 连接到 ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'core'

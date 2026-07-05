@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '이 가이드에서는 ClickHouse와 Unity Catalog를 사용하여 S3 버킷의 데이터를 쿼리하는 방법을 단계별로 설명합니다.'
 keywords: ['Unity', '데이터 레이크']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

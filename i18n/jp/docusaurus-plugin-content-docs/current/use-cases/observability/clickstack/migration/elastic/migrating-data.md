@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'データ移行'
 sidebar_position: 4
 description: 'Elastic から ClickHouse Observability Stack へのデータ移行'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

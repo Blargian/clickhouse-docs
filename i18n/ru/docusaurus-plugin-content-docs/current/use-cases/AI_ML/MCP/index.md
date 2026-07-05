@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'На этой странице представлено введение в Model Context Protocol (MCP) и содержится оглавление руководств по MCP.'
 keywords: ['ClickHouse', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

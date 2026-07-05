@@ -3,7 +3,6 @@ title: '数据管理'
 description: '可观测性中的数据管理'
 slug: /observability/managing-data
 keywords: ['observability', 'logs', 'traces', 'metrics', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

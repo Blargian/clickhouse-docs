@@ -4,7 +4,6 @@ sidebar_position: 1
 description: '在本指南中，我们将深入探讨 ClickHouse 的索引机制。'
 title: 'ClickHouse 主键索引实用入门'
 slug: /guides/best-practices/sparse-primary-indexes
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['主键索引', '索引', '性能', '查询优化', '最佳实践']
 ---

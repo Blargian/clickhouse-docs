@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'mcp-agent와 ClickHouse MCP 서버로 AI 에이전트를 구축하는 방법 알아보기'
 keywords: ['ClickHouse', 'MCP', 'mcp-agent']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

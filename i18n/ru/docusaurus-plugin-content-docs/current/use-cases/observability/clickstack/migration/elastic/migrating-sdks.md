@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Миграция SDKs'
 sidebar_position: 6
 description: 'Миграция SDKs из Elastic'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

@@ -5,7 +5,6 @@ sidebar_label: '기본 키 선택'
 title: '기본 키 선택하기'
 description: 'ClickHouse에서 기본 키(Primary Key)를 선택하는 방법을 설명하는 페이지'
 keywords: ['기본 키(Primary Key)']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

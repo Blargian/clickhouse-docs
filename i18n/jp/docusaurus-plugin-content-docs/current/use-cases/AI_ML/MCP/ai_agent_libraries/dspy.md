@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'DSPy と ClickHouse MCPサーバーで AI エージェントを構築する方法を学ぶ'
 keywords: ['ClickHouse', 'MCP', 'DSPy']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

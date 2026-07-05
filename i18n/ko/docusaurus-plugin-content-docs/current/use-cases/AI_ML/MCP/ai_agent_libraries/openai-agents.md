@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCP 서버와 상호 작용할 수 있는 OpenAI 에이전트를 구축하는 방법을 알아보세요.'
 keywords: ['ClickHouse', 'MCP', 'OpenAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

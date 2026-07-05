@@ -5,7 +5,6 @@ sidebar_label: '数据跳过索引'
 title: '在合适的情况下使用数据跳过索引'
 description: '介绍如何以及何时使用数据跳过索引的页面'
 keywords: ['数据跳过索引', '跳过索引']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

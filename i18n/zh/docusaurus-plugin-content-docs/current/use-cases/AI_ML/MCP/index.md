@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本页介绍 Model Context Protocol (MCP)，并提供 MCP 指南的目录。'
 keywords: ['ClickHouse', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

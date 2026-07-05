@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '使用 AGENTS.md 为 ClickHouse Assistant 聊天代理 提供自定义业务逻辑和数据相关指令的指南'
 keywords: ['AI', 'ClickHouse Cloud', 'Agent', 'AGENTS.md', 'Semantic Layer', 'Custom Instructions', 'System Prompt']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

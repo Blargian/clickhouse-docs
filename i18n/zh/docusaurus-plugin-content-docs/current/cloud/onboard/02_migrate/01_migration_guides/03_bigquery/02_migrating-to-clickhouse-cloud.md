@@ -3,7 +3,6 @@ title: '从 BigQuery 迁移到 ClickHouse Cloud'
 slug: /migrations/bigquery/migrating-to-clickhouse-cloud
 description: '如何将您的数据从 BigQuery 迁移到 ClickHouse Cloud'
 keywords: ['BigQuery']
-show_related_blogs: true
 sidebar_label: '迁移指南'
 doc_type: 'guide'
 ---

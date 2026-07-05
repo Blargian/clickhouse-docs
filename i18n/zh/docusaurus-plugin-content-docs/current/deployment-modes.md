@@ -4,7 +4,6 @@ sidebar_label: '部署模式'
 description: 'ClickHouse 提供五种部署选项，全部使用同一款强大的数据库引擎，只是采用不同的打包方式，以满足您的特定需求。'
 title: '部署模式'
 keywords: ['部署模式', 'chDB']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

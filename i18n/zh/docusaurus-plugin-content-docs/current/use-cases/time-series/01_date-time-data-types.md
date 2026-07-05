@@ -4,7 +4,6 @@ sidebar_label: '日期和时间数据类型'
 description: 'ClickHouse 中的时序数据类型。'
 slug: /use-cases/time-series/date-time-data-types
 keywords: ['时序', 'DateTime', 'DateTime64', 'Date', 'Time', 'Time64', '数据类型', '时间数据', '时间戳']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

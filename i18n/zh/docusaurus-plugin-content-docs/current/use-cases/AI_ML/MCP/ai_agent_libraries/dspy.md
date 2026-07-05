@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用 DSPy 和 ClickHouse MCP server 构建 AI 智能体'
 keywords: ['ClickHouse', 'MCP', 'DSPy']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

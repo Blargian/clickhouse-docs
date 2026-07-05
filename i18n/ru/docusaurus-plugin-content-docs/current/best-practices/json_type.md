@@ -5,7 +5,6 @@ sidebar_label: 'Использование JSON'
 title: 'Используйте JSON, когда это уместно'
 description: 'Страница с описанием случаев, когда следует использовать JSON'
 keywords: ['JSON']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

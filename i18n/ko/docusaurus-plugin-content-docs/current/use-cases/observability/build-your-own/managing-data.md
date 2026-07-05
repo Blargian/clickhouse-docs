@@ -3,7 +3,6 @@ title: '데이터 관리'
 description: '관측성을 위한 데이터 관리'
 slug: /observability/managing-data
 keywords: ['관측성', 'logs', 'traces', 'metrics', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

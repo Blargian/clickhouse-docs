@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Обзор'
 sidebar_position: 0
 description: 'Обзор миграции на стек наблюдаемости ClickHouse с Elastic'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'guide'
 ---

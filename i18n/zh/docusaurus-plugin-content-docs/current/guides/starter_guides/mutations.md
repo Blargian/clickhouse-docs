@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['UPDATE', 'DELETE', 'mutations']
 title: '更新和删除 ClickHouse 数据'
 description: '介绍如何在 ClickHouse 中执行更新和删除操作'
-show_related_blogs: false
 doc_type: 'guide'
 ---
 

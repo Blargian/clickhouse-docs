@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解 QBit 如何在 ClickHouse 中为向量搜索查询实现运行时可调的精度调优。'
 keywords: ['QBit', 'vector search', 'AI', 'embeddings', 'ANN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

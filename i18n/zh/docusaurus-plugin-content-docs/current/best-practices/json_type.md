@@ -5,7 +5,6 @@ sidebar_label: '使用 JSON'
 title: '在合适的情况下使用 JSON'
 description: '介绍何时使用 JSON 的页面'
 keywords: ['JSON']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

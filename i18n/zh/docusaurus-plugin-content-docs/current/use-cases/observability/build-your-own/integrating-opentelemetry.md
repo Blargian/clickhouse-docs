@@ -3,7 +3,6 @@ title: '集成 OpenTelemetry 进行数据采集'
 description: '将 OpenTelemetry 与 ClickHouse 集成以实现可观测性'
 slug: /observability/integrating-opentelemetry
 keywords: ['可观测性', 'OpenTelemetry']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве объясняется, как использовать ИИ для генерации SQL‑запросов в ClickHouse Client или clickhouse-local.'
 keywords: ['AI', 'Генерация SQL']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

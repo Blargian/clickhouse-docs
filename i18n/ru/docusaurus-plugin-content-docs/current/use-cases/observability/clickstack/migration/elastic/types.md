@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Типы'
 sidebar_position: 2
 description: 'Сопоставление типов в ClickHouse и Elasticsearch'
-show_related_blogs: true
 keywords: ['JSON', 'Codecs']
 doc_type: 'reference'
 ---

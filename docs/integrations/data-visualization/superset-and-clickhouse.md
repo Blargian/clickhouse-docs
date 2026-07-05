@@ -5,7 +5,6 @@ slug: /integrations/superset
 keywords: ['superset']
 description: 'Apache Superset is an open-source data exploration and visualization platform.'
 title: 'Connect Superset to ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'core'

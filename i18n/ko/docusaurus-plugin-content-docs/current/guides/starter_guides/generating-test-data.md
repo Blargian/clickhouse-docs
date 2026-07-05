@@ -3,7 +3,6 @@ sidebar_label: '무작위 테스트 데이터 생성'
 title: 'ClickHouse에서 무작위 테스트 데이터 생성'
 slug: /guides/generating-test-data
 description: 'ClickHouse에서 무작위 테스트 데이터를 생성하는 방법을 알아봅니다'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['무작위 데이터', '테스트 데이터']
 ---

@@ -5,7 +5,6 @@ sidebar_label: '조인을 최소화하고 최적화하기'
 title: '조인을 최소화하고 최적화하기'
 description: 'ClickHouse에서 조인 사용을 위한 모범 사례를 설명하는 문서'
 keywords: ['JOIN', 'Parallel Hash JOIN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

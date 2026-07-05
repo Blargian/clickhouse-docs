@@ -3,7 +3,6 @@ title: '为可观测性设计schema'
 description: '为可观测性设计 schema'
 keywords: ['可观测性', '日志', '链路追踪', '指标', 'OpenTelemetry', 'Grafana', 'OTel']
 slug: /use-cases/observability/schema-design
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

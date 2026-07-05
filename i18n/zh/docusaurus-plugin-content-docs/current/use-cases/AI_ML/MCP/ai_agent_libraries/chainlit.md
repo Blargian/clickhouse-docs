@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用 Chainlit 配合 ClickHouse MCP server 构建基于 LLM 的聊天应用'
 keywords: ['ClickHouse', 'MCP', 'Chainlit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

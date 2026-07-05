@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'DSPy와 ClickHouse MCP 서버를 사용하여 AI 에이전트를 구축하는 방법을 알아봅니다'
 keywords: ['ClickHouse', 'MCP', 'DSPy']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

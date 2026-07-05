@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '개요'
 sidebar_position: 0
 description: 'Elastic에서 ClickHouse 관측성 스택(ClickStack)으로 마이그레이션하는 개요'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'guide'
 ---

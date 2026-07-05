@@ -5,7 +5,6 @@ sidebar_label: 'JOIN を最小化して最適化する'
 title: 'JOIN を最小化して最適化する'
 description: 'ClickHouse での JOIN の使用に関するベストプラクティスを説明するドキュメント'
 keywords: ['JOIN', 'Parallel Hash JOIN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

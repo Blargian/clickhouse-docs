@@ -6,7 +6,6 @@ sidebar_position: 50
 slug: /engines/table-engines/mergetree-family/coalescingmergetree
 title: 'CoalescingMergeTree 테이블 엔진'
 keywords: ['CoalescingMergeTree']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

@@ -5,7 +5,6 @@ sidebar_position: 2
 keywords: ['ttl', 'time to live', 'clickhouse', '오래된', '데이터']
 description: 'TTL (time-to-live)은 일정 시간이 경과한 후 행 또는 컬럼을 이동, 삭제 또는 롤업할 수 있는 기능을 의미합니다.'
 title: 'TTL을 사용한 데이터 관리 (time-to-live)'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

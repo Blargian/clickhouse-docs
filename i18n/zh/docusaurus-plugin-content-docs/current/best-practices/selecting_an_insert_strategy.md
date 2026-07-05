@@ -5,7 +5,6 @@ sidebar_label: '选择插入策略'
 title: '选择插入策略'
 description: '介绍如何在 ClickHouse 中选择插入策略的页面'
 keywords: ['INSERT', '异步插入', '压缩', '批量插入']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

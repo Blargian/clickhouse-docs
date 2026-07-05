@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse Cloud コンソールで AI Chat チャット機能を有効化して利用するためのガイド'
 keywords: ['AI', 'ClickHouse Cloud', 'Chat', 'SQL Console', 'Agent', 'Docs AI']
-show_related_blogs: true
 sidebar_position: 2
 doc_type: 'guide'
 ---

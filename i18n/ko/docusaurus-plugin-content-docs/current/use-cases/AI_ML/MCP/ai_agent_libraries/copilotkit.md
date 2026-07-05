@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCP와 CopilotKit을 사용하여 ClickHouse에 저장된 데이터로 에이전트 기반 애플리케이션을 구축하는 방법을 알아보십시오'
 keywords: ['ClickHouse', 'MCP', 'copilotkit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

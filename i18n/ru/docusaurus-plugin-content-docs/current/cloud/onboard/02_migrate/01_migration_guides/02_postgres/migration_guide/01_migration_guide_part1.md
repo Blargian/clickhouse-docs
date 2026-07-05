@@ -3,7 +3,6 @@ slug: /migrations/postgresql/dataset
 title: 'Миграция данных'
 description: 'Пример набора данных для миграции из PostgreSQL в ClickHouse'
 keywords: ['Postgres']
-show_related_blogs: true
 sidebar_label: 'Часть 1'
 doc_type: 'guide'
 ---

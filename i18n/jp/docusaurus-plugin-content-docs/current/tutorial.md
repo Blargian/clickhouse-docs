@@ -5,7 +5,6 @@ title: '高度なチュートリアル'
 description: 'New York City のタクシーのサンプルデータセットを使用して、ClickHouse でデータを取り込み、クエリを実行する方法を学びます。'
 sidebar_position: 0.5
 keywords: ['clickhouse', 'install', 'tutorial', 'dictionary', 'dictionaries', 'example', 'advanced', 'taxi', 'new york', 'nyc']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

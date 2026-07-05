@@ -5,7 +5,6 @@ sidebar_position: 2
 keywords: ['ttl', 'time to live', 'clickhouse', 'old', 'data']
 description: '有効期限 (TTL)は、一定の時間が経過した後に行またはカラムを移動、削除、またはロールアップする機能を指します。'
 title: '有効期限 (TTL)でデータを管理する'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

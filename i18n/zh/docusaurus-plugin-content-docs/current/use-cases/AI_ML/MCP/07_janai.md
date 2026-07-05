@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本指南介绍如何将 Jan.ai 与 ClickHouse MCP 服务器配合使用完成设置。'
 keywords: ['AI', 'Jan.ai', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

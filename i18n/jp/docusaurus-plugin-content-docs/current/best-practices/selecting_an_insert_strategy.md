@@ -5,7 +5,6 @@ sidebar_label: 'INSERT 戦略の選び方'
 title: 'INSERT 戦略の選び方'
 description: 'ClickHouse での INSERT 戦略の選び方を説明するページ'
 keywords: ['INSERT', 'asynchronous inserts', 'compression', 'batch inserts']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

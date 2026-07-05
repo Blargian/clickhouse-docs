@@ -5,7 +5,6 @@ slug: /integrations/zingdata
 keywords: ['Zing Data']
 description: 'Zing Data — это простая социальная платформа бизнес‑аналитики для ClickHouse, доступная на iOS, Android и в веб‑интерфейсе.'
 title: 'Подключение Zing Data к ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
    - support_level: 'community'

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何构建一个可与 ClickHouse MCP server 交互的 OpenAI agent。'
 keywords: ['ClickHouse', 'MCP', 'OpenAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Microsoft Agent framework と ClickHouse MCPサーバーを使用して AI エージェントを構築する方法を学びます'
 keywords: ['ClickHouse', 'MCP', 'Microsoft']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

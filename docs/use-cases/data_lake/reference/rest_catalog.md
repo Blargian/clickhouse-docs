@@ -7,7 +7,6 @@ pagination_next: null
 description: 'In this guide, we will walk you through the steps to query
  your data using ClickHouse and the REST Catalog.'
 keywords: ['REST', 'Tabular', 'Data Lake', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

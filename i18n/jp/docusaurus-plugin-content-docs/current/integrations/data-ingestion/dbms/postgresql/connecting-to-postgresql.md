@@ -3,7 +3,6 @@ slug: /integrations/postgresql/connecting-to-postgresql
 title: 'ClickHouse と PostgreSQL の接続'
 keywords: ['clickhouse', 'postgres', 'postgresql', 'connect', 'integrate', 'table', 'engine']
 description: 'PostgreSQL を ClickHouse に接続するさまざまな方法を説明するページ'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

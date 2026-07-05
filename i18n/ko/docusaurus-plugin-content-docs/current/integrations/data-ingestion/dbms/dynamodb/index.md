@@ -5,7 +5,6 @@ slug: /integrations/dynamodb
 description: 'ClickPipes를 사용하면 ClickHouse를 DynamoDB에 연결할 수 있습니다.'
 keywords: ['DynamoDB']
 title: 'DynamoDB에서 ClickHouse로 CDC'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

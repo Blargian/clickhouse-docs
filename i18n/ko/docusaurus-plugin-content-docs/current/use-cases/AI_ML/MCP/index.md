@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '이 페이지에서는 Model Context Protocol(MCP)을 소개하고 MCP 안내서의 목차를 제공합니다.'
 keywords: ['ClickHouse', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

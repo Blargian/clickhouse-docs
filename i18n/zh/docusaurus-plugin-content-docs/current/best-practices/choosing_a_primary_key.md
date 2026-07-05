@@ -5,7 +5,6 @@ sidebar_label: '选择主键'
 title: '选择主键'
 description: '本文介绍如何在 ClickHouse 中选择主键'
 keywords: ['主键']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

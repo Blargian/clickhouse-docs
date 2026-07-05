@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、Docker を使用して ClickHouse MCPサーバーと連携する Open WebUI のセットアップ方法を説明します。'
 keywords: ['AI', 'Open WebUI', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: 'GitHub 仓库'
 slug: /getting-started/example-datasets/github
 title: '在 ClickHouse 中使用 GitHub 数据编写查询'
 keywords: ['GitHub']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

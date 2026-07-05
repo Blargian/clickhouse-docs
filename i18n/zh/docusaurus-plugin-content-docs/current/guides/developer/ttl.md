@@ -5,7 +5,6 @@ sidebar_position: 2
 keywords: ['ttl', 'time to live', 'clickhouse', '旧', '数据']
 description: 'TTL（time-to-live，生存时间）指在经过一定时间间隔后，对行或列进行移动、删除或汇总的能力。'
 title: '使用 TTL（生存时间）管理数据'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

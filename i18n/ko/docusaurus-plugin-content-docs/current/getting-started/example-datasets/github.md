@@ -4,7 +4,6 @@ sidebar_label: 'GitHub 저장소'
 slug: /getting-started/example-datasets/github
 title: 'GitHub 데이터를 사용하여 ClickHouse에서 쿼리 작성하기'
 keywords: ['GitHub']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

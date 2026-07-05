@@ -3,7 +3,6 @@ slug: /integrations/postgresql/connecting-to-postgresql
 title: 'ClickHouse를 PostgreSQL에 연결하기'
 keywords: ['clickhouse', 'postgres', 'postgresql', '연결', '통합', '테이블', '엔진']
 description: 'PostgreSQL을 ClickHouse에 연결하는 다양한 방법을 설명하는 페이지'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '概要'
 sidebar_position: 0
 description: 'Elastic から ClickHouse Observability Stack への移行の概要'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'guide'
 ---

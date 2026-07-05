@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Learn how to use Chainlit to build LLM-based chat apps together with the ClickHouse MCP server'
 keywords: ['ClickHouse', 'MCP', 'Chainlit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

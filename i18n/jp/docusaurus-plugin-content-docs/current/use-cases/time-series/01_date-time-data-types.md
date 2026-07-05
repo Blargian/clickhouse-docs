@@ -4,7 +4,6 @@ sidebar_label: '日付と時刻のデータ型'
 description: 'ClickHouse の時系列データ型。'
 slug: /use-cases/time-series/date-time-data-types
 keywords: ['時系列', 'DateTime', 'DateTime64', 'Date', 'Time', 'Time64', 'データ型', '時間データ', 'タイムスタンプ']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

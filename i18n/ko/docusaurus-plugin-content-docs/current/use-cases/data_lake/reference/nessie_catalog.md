@@ -7,7 +7,6 @@ pagination_next: null
 description: '이 가이드에서는 ClickHouse와 Nessie 카탈로그를 사용하여
  데이터를 쿼리하는 방법을 단계별로 안내합니다.'
 keywords: ['Nessie', 'REST', 'Transactional', '데이터 레이크', 'Iceberg', 'Git-like']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

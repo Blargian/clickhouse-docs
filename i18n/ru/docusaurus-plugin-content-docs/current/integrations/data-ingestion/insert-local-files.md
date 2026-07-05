@@ -4,7 +4,6 @@ sidebar_position: 2
 title: 'Вставка локальных файлов'
 slug: /integrations/data-ingestion/insert-local-files
 description: 'Узнайте о вставке локальных файлов'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['вставка локальных файлов ClickHouse', 'импорт локальных файлов ClickHouse', 'загрузка файлов через clickhouse-client']
 ---

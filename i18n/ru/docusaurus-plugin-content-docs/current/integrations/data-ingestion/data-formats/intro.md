@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['clickhouse', 'CSV', 'TSV', 'Parquet', 'clickhouse-client', 'clickhouse-local']
 title: 'Импорт данных из различных форматов в ClickHouse'
 description: 'Страница, описывающая, как импортировать данные из различных форматов в ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

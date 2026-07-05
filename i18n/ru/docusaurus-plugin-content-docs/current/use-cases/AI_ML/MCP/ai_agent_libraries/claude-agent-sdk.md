@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать ИИ-агента с помощью Claude Agent SDK и MCP-сервером ClickHouse'
 keywords: ['ClickHouse', 'MCP', 'Claude']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

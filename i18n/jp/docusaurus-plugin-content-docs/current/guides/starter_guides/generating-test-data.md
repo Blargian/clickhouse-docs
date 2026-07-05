@@ -3,7 +3,6 @@ sidebar_label: 'ランダムなテストデータの生成'
 title: 'ClickHouse でランダムなテストデータを生成する'
 slug: /guides/generating-test-data
 description: 'ClickHouse でランダムなテストデータを生成する方法を学びます'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['ランダムデータ', 'テストデータ']
 ---

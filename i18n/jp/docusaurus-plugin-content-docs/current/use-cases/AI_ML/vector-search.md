@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'QBit が ClickHouse におけるベクトル検索クエリの精度を実行時に調整可能にする仕組みについて学びます。'
 keywords: ['QBit', 'ベクトル検索', 'AI', '埋め込み表現', 'ANN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

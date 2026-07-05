@@ -5,7 +5,6 @@ sidebar_label: 'JSON の使用'
 title: '適切な場面で JSON を利用する'
 description: 'JSON をいつ利用すべきかを説明するページ'
 keywords: ['JSON']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

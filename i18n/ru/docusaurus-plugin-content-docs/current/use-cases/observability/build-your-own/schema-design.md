@@ -3,7 +3,6 @@ title: 'Проектирование схемы для обсервабилит�
 description: 'Проектирование схемы для обсервабилити'
 keywords: ['обсервабилити', 'журналы', 'трейсы', 'метрики', 'OpenTelemetry', 'Grafana', 'OTel']
 slug: /use-cases/observability/schema-design
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

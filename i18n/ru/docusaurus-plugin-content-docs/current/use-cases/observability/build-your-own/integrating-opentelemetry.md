@@ -3,7 +3,6 @@ title: 'Интеграция OpenTelemetry для сбора данных'
 description: 'Интеграция OpenTelemetry и ClickHouse для обсервабилити'
 slug: /observability/integrating-opentelemetry
 keywords: ['Обсервабилити', 'OpenTelemetry']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

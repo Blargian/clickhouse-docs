@@ -7,7 +7,6 @@ pagination_next: null
 description: 'このガイドでは、ClickHouse と Snowflake Polaris カタログを使用して
  データをクエリする手順を説明します。'
 keywords: ['Polaris', 'Snowflake', 'データレイク']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '迁移 SDK'
 sidebar_position: 6
 description: '从 Elastic 迁移 SDK'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

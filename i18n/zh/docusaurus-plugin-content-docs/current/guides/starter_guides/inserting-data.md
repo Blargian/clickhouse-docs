@@ -4,7 +4,6 @@ description: '如何将数据写入 ClickHouse'
 keywords: ['INSERT', '批量插入']
 sidebar_label: '将数据写入 ClickHouse'
 slug: /guides/inserting-data
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

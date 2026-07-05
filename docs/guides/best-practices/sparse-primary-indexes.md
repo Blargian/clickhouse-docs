@@ -4,7 +4,6 @@ sidebar_position: 1
 description: 'In this guide we''re going to do a deep dive into ClickHouse indexing.'
 title: 'A practical introduction to primary indexes in ClickHouse'
 slug: /guides/best-practices/sparse-primary-indexes
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['primary index', 'indexing', 'performance', 'query optimization', 'best practices']
 ---

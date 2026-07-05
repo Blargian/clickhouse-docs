@@ -5,7 +5,6 @@ sidebar_label: 'materialized view 활용하기'
 title: 'materialized view 활용하기'
 description: 'materialized view에 대해 설명하는 페이지'
 keywords: ['materialized views', 'medallion architecture']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

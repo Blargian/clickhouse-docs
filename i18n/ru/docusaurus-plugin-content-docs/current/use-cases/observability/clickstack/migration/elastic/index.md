@@ -4,7 +4,6 @@ title: 'Миграция на ClickStack с Elastic'
 pagination_prev: null
 pagination_next: null
 description: 'Целевая страница по миграции на ClickHouse Observability Stack с Elastic'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'landing-page'
 ---

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Agno と ClickHouse MCPサーバーを使用して AI エージェントを構築する方法を学びます'
 keywords: ['ClickHouse', 'MCP', 'Agno']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

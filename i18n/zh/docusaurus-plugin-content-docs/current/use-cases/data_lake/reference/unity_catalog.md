@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '在本指南中，我们将逐步演示如何使用 ClickHouse 和 Unity Catalog 查询 S3 存储桶中的数据。'
 keywords: ['Unity', '数据湖']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

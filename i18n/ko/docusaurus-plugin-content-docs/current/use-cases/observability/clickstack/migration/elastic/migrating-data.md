@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '데이터 마이그레이션'
 sidebar_position: 4
 description: 'Elastic에서 ClickHouse Observability Stack으로 데이터 마이그레이션'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

@@ -4,7 +4,6 @@ slug: /migrations/snowflake
 description: '从 Snowflake 迁移到 ClickHouse'
 keywords: ['Snowflake']
 title: '从 Snowflake 迁移到 ClickHouse'
-show_related_blogs: false
 doc_type: 'guide'
 ---
 

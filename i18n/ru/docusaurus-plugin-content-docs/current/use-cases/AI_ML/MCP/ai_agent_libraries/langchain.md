@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать агента ИИ LangChain/LangGraph, который может взаимодействовать с SQL-песочницей ClickHouse с помощью MCP-сервера ClickHouse.'
 keywords: ['ClickHouse', 'MCP', 'LangChain', 'LangGraph']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

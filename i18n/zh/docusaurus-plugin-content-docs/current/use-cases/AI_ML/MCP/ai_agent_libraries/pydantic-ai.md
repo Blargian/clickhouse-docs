@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何构建一个可与 ClickHouse MCP 服务器交互的 PydanticAI agent。'
 keywords: ['ClickHouse', 'MCP', 'PydanticAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

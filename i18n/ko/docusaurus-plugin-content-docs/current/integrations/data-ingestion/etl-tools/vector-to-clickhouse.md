@@ -4,7 +4,6 @@ sidebar_position: 220
 slug: /integrations/vector
 description: 'Vector를 사용하여 로그 파일을 tail하여 ClickHouse로 수집하는 방법'
 title: 'Vector를 ClickHouse와 통합하기'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве мы пошагово покажем, как выполнять запросы к данным с использованием ClickHouse и каталога Nessie.'
 keywords: ['Nessie', 'REST', 'Transactional', 'Data Lake', 'Iceberg', 'Git-like']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

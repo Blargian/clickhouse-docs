@@ -3,7 +3,6 @@ title: 'Comparing ClickHouse Cloud and BigQuery'
 slug: /migrations/bigquery/biquery-vs-clickhouse-cloud
 description: 'How BigQuery differs from ClickHouse Cloud'
 keywords: ['BigQuery']
-show_related_blogs: true
 sidebar_label: 'Overview'
 doc_type: 'guide'
 ---

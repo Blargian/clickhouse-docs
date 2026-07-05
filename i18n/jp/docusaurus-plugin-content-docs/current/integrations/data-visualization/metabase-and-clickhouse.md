@@ -5,7 +5,6 @@ slug: /integrations/metabase
 keywords: ['Metabase']
 description: 'Metabase は、データに関する質問を簡単に行える使いやすいオープンソースの UI ツールです。'
 title: 'Metabase を ClickHouse に接続する'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

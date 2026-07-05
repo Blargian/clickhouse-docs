@@ -5,7 +5,6 @@ sidebar_label: 'Выбор стратегии вставки'
 title: 'Выбор стратегии вставки'
 description: 'Страница, посвящённая выбору стратегии вставки данных в ClickHouse'
 keywords: ['INSERT', 'асинхронные вставки', 'сжатие', 'пакетные вставки']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

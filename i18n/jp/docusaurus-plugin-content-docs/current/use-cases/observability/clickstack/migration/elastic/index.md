@@ -4,7 +4,6 @@ title: 'Elastic から ClickStack への移行'
 pagination_prev: null
 pagination_next: null
 description: 'Elastic から ClickHouse Observability Stack への移行用ランディングページ'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'landing-page'
 ---

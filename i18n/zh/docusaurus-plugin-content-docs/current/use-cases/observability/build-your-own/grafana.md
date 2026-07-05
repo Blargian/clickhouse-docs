@@ -3,7 +3,6 @@ title: '使用 Grafana 和 ClickHouse 实现可观测性'
 description: '结合 Grafana 和 ClickHouse 实现可观测性'
 slug: /observability/grafana
 keywords: ['可观测性', '日志', '追踪', '指标', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

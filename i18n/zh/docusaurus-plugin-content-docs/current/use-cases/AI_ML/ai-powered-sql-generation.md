@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本指南介绍如何在 ClickHouse Client 或 clickhouse-local 中使用 AI 生成 SQL 查询。'
 keywords: ['AI', 'SQL 生成']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

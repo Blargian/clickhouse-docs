@@ -4,7 +4,6 @@ sidebar_label: 'GitHub リポジトリ'
 slug: /getting-started/example-datasets/github
 title: 'GitHub データを用いた ClickHouse でのクエリの作成'
 keywords: ['Github']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

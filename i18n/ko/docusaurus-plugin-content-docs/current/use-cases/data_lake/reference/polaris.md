@@ -7,7 +7,6 @@ pagination_next: null
 description: '이 가이드에서는 ClickHouse와 Snowflake Polaris 카탈로그를 사용해 데이터를 쿼리하는
  단계를 안내합니다.'
 keywords: ['Polaris', 'Snowflake', '데이터 레이크']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

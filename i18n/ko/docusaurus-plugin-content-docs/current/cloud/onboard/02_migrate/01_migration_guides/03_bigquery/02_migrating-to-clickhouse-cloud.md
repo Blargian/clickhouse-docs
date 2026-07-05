@@ -3,7 +3,6 @@ title: 'BigQuery에서 ClickHouse Cloud로 마이그레이션하기'
 slug: /migrations/bigquery/migrating-to-clickhouse-cloud
 description: 'BigQuery에서 ClickHouse Cloud로 데이터를 마이그레이션하는 방법'
 keywords: ['BigQuery']
-show_related_blogs: true
 sidebar_label: '마이그레이션 가이드'
 doc_type: 'guide'
 ---

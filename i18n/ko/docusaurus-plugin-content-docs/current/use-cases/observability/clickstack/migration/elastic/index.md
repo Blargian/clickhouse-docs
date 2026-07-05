@@ -4,7 +4,6 @@ title: 'Elastic에서 ClickStack으로 마이그레이션'
 pagination_prev: null
 pagination_next: null
 description: 'Elastic에서 ClickHouse 관측성 스택으로 마이그레이션하기 위한 랜딩 페이지'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'landing-page'
 ---

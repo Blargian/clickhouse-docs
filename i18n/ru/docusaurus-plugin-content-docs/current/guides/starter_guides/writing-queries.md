@@ -5,7 +5,6 @@ title: 'Выбор данных в ClickHouse'
 slug: /guides/writing-queries
 description: 'Узнайте, как выбирать данные в ClickHouse'
 keywords: ['SELECT', 'data formats']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

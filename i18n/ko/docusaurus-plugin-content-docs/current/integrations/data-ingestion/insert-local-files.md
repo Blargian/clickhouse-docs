@@ -4,7 +4,6 @@ sidebar_position: 2
 title: '로컬 파일 삽입'
 slug: /integrations/data-ingestion/insert-local-files
 description: '로컬 파일 삽입에 대해 알아보기'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['로컬 파일 삽입 ClickHouse', 'ClickHouse 로컬 파일 가져오기', 'clickhouse-client 파일 업로드']
 ---

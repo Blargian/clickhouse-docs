@@ -5,7 +5,6 @@ sidebar_position: 2
 keywords: ['ttl', 'time to live', 'clickhouse', 'устаревшие', 'данные']
 description: 'TTL (time to live) — это возможность перемещать, удалять или агрегировать строки или столбцы по истечении определённого интервала времени.'
 title: 'управление сроком жизни данных (time-to-live)'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

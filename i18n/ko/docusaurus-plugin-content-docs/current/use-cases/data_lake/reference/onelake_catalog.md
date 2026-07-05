@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '이 가이드에서는 Microsoft OneLake의 데이터를 쿼리하는 방법을 단계별로 설명합니다.'
 keywords: ['OneLake', '데이터 레이크', 'Fabric']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

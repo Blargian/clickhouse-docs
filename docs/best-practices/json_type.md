@@ -5,7 +5,6 @@ sidebar_label: 'Using JSON'
 title: 'Use JSON where appropriate'
 description: 'Page describing when to use JSON'
 keywords: ['JSON']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

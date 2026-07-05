@@ -4,7 +4,6 @@ sidebar_position: 1
 slug: /integrations/grafana
 description: '在 Grafana 中使用 ClickHouse 的介绍'
 title: '用于 Grafana 的 ClickHouse 数据源插件'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'core'

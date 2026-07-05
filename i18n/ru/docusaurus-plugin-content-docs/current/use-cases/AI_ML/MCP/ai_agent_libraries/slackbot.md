@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать агента SlackBot, который может взаимодействовать с MCP-сервером ClickHouse.'
 keywords: ['ClickHouse', 'MCP', 'Slack', 'SlackBot', 'PydanticAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

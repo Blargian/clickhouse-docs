@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['UPDATE', 'DELETE', 'mutations']
 title: 'Обновление и удаление данных ClickHouse'
 description: 'Описывает, как выполнять операции обновления и удаления в ClickHouse'
-show_related_blogs: false
 doc_type: 'guide'
 ---
 

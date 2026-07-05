@@ -4,7 +4,6 @@ sidebar_label: 'Типы данных даты и времени'
 description: 'Типы данных для временных рядов в ClickHouse.'
 slug: /use-cases/time-series/date-time-data-types
 keywords: ['временные ряды', 'DateTime', 'DateTime64', 'Date', 'Time', 'Time64', 'типы данных', 'временные данные', 'временная метка']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать ИИ-агента с DSPy и MCP-сервером ClickHouse'
 keywords: ['ClickHouse', 'MCP', 'DSPy']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: 'ストレージ効率'
 description: '時系列データのストレージ効率を向上させる'
 slug: /use-cases/time-series/storage-efficiency
 keywords: ['時系列データ', 'ストレージ効率', '圧縮', 'データ保持期間', 'TTL', 'ストレージ最適化', 'ディスク使用量']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

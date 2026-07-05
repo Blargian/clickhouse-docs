@@ -4,7 +4,6 @@ sidebar_label: '저장 효율성'
 description: '시계열 저장 효율성 향상'
 slug: /use-cases/time-series/storage-efficiency
 keywords: ['시계열', '저장 효율성', '압축', '데이터 보존 기간', 'TTL', '스토리지 최적화', '디스크 사용량']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

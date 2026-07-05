@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'SDK 이전'
 sidebar_position: 6
 description: 'Elastic에서 SDK 이전'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

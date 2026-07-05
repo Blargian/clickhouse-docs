@@ -4,7 +4,6 @@ sidebar_position: 1
 description: 'このガイドでは、ClickHouse におけるインデックスについて詳しく解説します。'
 title: 'ClickHouse におけるプライマリインデックス実践入門'
 slug: /guides/best-practices/sparse-primary-indexes
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['プライマリインデックス', 'インデックス', 'パフォーマンス', 'クエリ最適化', 'ベストプラクティス']
 ---

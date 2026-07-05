@@ -4,7 +4,6 @@ description: 'ClickHouse にデータを挿入する方法'
 keywords: ['INSERT', 'Batch Insert']
 sidebar_label: 'ClickHouse へのデータ挿入'
 slug: /guides/inserting-data
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

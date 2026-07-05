@@ -5,7 +5,6 @@ sidebar_label: 'INSERT 전략 선택'
 title: 'INSERT 전략 선택'
 description: 'ClickHouse에서 INSERT 전략을 선택하는 방법을 설명하는 페이지'
 keywords: ['INSERT', '비동기 INSERT', '압축', '배치 INSERT']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

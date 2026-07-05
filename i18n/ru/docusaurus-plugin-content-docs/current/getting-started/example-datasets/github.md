@@ -4,7 +4,6 @@ sidebar_label: 'Репозиторий GitHub'
 slug: /getting-started/example-datasets/github
 title: 'Создание запросов в ClickHouse с использованием данных GitHub'
 keywords: ['GitHub']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['clickhouse', 'CSV', 'TSV', 'Parquet', 'clickhouse-client', 'clickhouse-local']
 title: 'さまざまなデータ形式から ClickHouse へデータをインポート'
 description: 'さまざまなデータ形式を ClickHouse にインポートする方法を説明するページ'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

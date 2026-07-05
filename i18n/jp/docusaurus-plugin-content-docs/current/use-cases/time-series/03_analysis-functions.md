@@ -4,7 +4,6 @@ sidebar_label: '分析関数'
 description: 'ClickHouse における時系列データ分析のための関数。'
 slug: /use-cases/time-series/analysis-functions
 keywords: ['時系列データ', '分析関数', 'ウィンドウ関数', '集約関数', '移動平均', '傾向分析']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

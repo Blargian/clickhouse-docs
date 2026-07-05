@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本指南介绍如何使用 Ollama 配置 ClickHouse MCP 服务器。'
 keywords: ['AI', 'Ollama', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

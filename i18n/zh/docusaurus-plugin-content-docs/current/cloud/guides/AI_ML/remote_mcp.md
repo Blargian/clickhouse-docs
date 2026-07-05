@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本指南介绍如何启用和使用 ClickHouse Cloud 远程 MCP 服务器'
 keywords: ['AI', 'ClickHouse Cloud', 'MCP']
-show_related_blogs: true
 sidebar_position: 1
 doc_type: 'guide'
 ---

@@ -4,7 +4,6 @@ sidebar_label: 'Querying Pandas'
 slug: /chdb/guides/pandas
 description: 'Learn how to query Pandas DataFrames with chDB'
 keywords: ['chDB', 'Pandas']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -3,7 +3,6 @@ slug: /migrations/postgresql/data-modeling-techniques
 title: '데이터 모델링 기법'
 description: 'PostgreSQL에서 ClickHouse로 마이그레이션하는 가이드의 3부'
 keywords: ['postgres', 'postgresql']
-show_related_blogs: true
 sidebar_label: '3부'
 doc_type: 'guide'
 ---

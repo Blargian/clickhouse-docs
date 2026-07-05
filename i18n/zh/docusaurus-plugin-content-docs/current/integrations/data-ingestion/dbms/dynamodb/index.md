@@ -5,7 +5,6 @@ slug: /integrations/dynamodb
 description: 'ClickPipes 支持将 ClickHouse 连接到 DynamoDB。'
 keywords: ['DynamoDB']
 title: '从 DynamoDB 到 ClickHouse 的 CDC'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

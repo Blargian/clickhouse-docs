@@ -3,7 +3,6 @@ title: 'ClickHouse Cloud와 BigQuery 비교'
 slug: /migrations/bigquery/biquery-vs-clickhouse-cloud
 description: 'BigQuery와 ClickHouse Cloud의 차이점'
 keywords: ['BigQuery']
-show_related_blogs: true
 sidebar_label: '개요'
 doc_type: 'guide'
 ---

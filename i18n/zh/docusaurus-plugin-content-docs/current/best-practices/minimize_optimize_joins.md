@@ -5,7 +5,6 @@ sidebar_label: '尽量减少并优化 JOIN 操作'
 title: '尽量减少并优化 JOIN 操作'
 description: '介绍在 ClickHouse 中使用 JOIN 的最佳实践的文档'
 keywords: ['JOIN', 'Parallel Hash JOIN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '对应概念'
 sidebar_position: 1
 description: '对应概念 - ClickStack 与 Elastic'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'reference'
 ---

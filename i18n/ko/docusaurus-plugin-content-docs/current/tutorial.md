@@ -5,7 +5,6 @@ title: '고급 튜토리얼'
 description: 'New York City 택시 예제 데이터 세트를 사용하여 ClickHouse에서 데이터를 수집하고 쿼리하는 방법을 학습합니다.'
 sidebar_position: 0.5
 keywords: ['clickhouse', '설치', '튜토리얼', '딕셔너리', '딕셔너리', '예제', '고급', '택시', 'new york', 'nyc']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -4,7 +4,6 @@ title: '从 Elastic 迁移到 ClickStack'
 pagination_prev: null
 pagination_next: null
 description: '从 Elastic 迁移到 ClickHouse 可观测性栈的着陆页'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'landing-page'
 ---

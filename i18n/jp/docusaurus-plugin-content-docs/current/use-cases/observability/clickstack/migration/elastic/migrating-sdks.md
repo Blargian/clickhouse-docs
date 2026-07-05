@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'SDK の移行'
 sidebar_position: 6
 description: 'Elastic からの SDK の移行'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

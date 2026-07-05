@@ -4,7 +4,6 @@ description: 'ClickHouse에 데이터를 삽입하는 방법'
 keywords: ['INSERT', '배치 INSERT']
 sidebar_label: 'ClickHouse 데이터 삽입'
 slug: /guides/inserting-data
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

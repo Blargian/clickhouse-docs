@@ -4,7 +4,6 @@ sidebar_label: 'Pandas のクエリ'
 slug: /chdb/guides/pandas
 description: 'chDB で Pandas DataFrame をクエリする方法を学ぶ'
 keywords: ['chDB', 'Pandas']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

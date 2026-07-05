@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本指南说明如何为 Claude Desktop 设置 ClickHouse MCP 服务器。'
 keywords: ['AI', 'Librechat', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

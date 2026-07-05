@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать веб-ИИ-агента с помощью Streamlit и MCP-сервера ClickHouse'
 keywords: ['ClickHouse', 'MCP', 'Streamlit', 'Agno', 'ИИ-агент']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

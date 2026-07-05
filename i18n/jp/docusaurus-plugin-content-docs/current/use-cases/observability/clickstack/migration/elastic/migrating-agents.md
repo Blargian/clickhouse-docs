@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'エージェントの移行'
 sidebar_position: 5
 description: 'Elastic からのエージェントの移行'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

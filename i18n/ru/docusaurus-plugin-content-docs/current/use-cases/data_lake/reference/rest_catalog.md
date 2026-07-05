@@ -7,7 +7,6 @@ pagination_next: null
 description: 'В этом руководстве мы пошагово покажем, как выполнять запросы
 к данным с помощью ClickHouse и REST-каталога.'
 keywords: ['REST', 'Tabular', 'озера данных', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

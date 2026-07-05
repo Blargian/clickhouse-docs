@@ -3,7 +3,6 @@ sidebar_label: '生成随机测试数据'
 title: '在 ClickHouse 中生成随机测试数据'
 slug: /guides/generating-test-data
 description: '了解如何在 ClickHouse 中生成随机测试数据'
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['随机数据', '测试数据']
 ---

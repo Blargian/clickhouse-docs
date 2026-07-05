@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['UPDATE', 'DELETE', 'mutations']
 title: 'ClickHouse データの更新と削除'
 description: 'ClickHouse で更新および削除操作を実行する方法を説明します'
-show_related_blogs: false
 doc_type: 'guide'
 ---
 

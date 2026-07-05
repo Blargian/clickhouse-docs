@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '迁移 Agent'
 sidebar_position: 5
 description: '从 Elastic 迁移 Agent'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

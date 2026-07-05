@@ -5,7 +5,6 @@ title: '高级教程'
 description: '学习如何使用纽约市出租车示例数据集在 ClickHouse 中摄取和查询数据。'
 sidebar_position: 0.5
 keywords: ['clickhouse', '安装', '教程', '字典', '字典表', '示例', '高级', '出租车', '纽约', 'nyc']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

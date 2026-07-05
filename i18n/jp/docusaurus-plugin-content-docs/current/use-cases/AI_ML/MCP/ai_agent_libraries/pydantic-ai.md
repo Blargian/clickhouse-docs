@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCPサーバーと対話できる PydanticAI エージェントを構築する方法を学びます。'
 keywords: ['ClickHouse', 'MCP', 'PydanticAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -7,7 +7,6 @@ pagination_next: null
 description: '이 가이드에서는 ClickHouse와 AWS Glue 데이터 카탈로그를 사용하여
  S3 버킷에 있는 데이터를 쿼리하는 방법을 단계별로 설명합니다.'
 keywords: ['Glue', 'Data Lake']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

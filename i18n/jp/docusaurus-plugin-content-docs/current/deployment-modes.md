@@ -4,7 +4,6 @@ sidebar_label: 'デプロイメントモード'
 description: 'ClickHouse は、同一の強力なデータベースエンジンを採用しつつ、それぞれのニーズに合わせてパッケージングが異なる 5 つのデプロイメントオプションを提供します。'
 title: 'デプロイメントモード'
 keywords: ['デプロイメントモード', 'chDB']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

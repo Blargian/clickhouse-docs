@@ -7,7 +7,6 @@ pagination_next: null
 description: 'В этом руководстве мы пошагово разберем, как выполнять запросы к
  вашим данным в Google Cloud Storage с помощью ClickHouse и каталога среды выполнения Lakehouse (BigLake Metastore).'
 keywords: ['BigLake', 'GCS', 'озеро данных', 'Iceberg', 'Google Cloud', 'Каталог среды выполнения Lakehouse']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

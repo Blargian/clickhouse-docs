@@ -3,7 +3,6 @@ title: 'ClickHouse Cloud と BigQuery の比較'
 slug: /migrations/bigquery/biquery-vs-clickhouse-cloud
 description: 'BigQuery と ClickHouse Cloud の違い'
 keywords: ['BigQuery']
-show_related_blogs: true
 sidebar_label: '概要'
 doc_type: 'guide'
 ---

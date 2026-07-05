@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用 CrewAI 和 ClickHouse MCP 服务器构建 AI 代理'
 keywords: ['ClickHouse', 'MCP', 'CrewAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

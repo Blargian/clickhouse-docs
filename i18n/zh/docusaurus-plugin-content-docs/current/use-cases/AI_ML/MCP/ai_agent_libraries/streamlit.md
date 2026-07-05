@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用 Streamlit 和 ClickHouse MCP server 构建一个基于 Web 的 AI Agent'
 keywords: ['ClickHouse', 'MCP', 'Streamlit', 'Agno', 'AI Agent']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

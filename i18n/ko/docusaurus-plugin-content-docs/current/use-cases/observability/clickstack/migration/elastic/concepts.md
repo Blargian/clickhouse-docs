@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '대응 개념'
 sidebar_position: 1
 description: '대응 개념 - ClickStack과 Elastic'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'reference'
 ---

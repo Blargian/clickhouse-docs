@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '在本指南中，我们将逐步介绍如何在 Microsoft OneLake 中查询数据。'
 keywords: ['OneLake', '数据湖', 'Fabric']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

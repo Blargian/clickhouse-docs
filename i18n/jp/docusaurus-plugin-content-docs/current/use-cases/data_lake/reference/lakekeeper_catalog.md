@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、ClickHouse と Lakekeeper カタログ を使用してデータを照会する手順を説明します。'
 keywords: ['Lakekeeper', 'REST', 'Tabular', 'Data Lake', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

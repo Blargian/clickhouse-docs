@@ -5,7 +5,6 @@ sidebar_label: 'マテリアライズドビューを使用する'
 title: 'マテリアライズドビューを使用する'
 description: 'マテリアライズドビューを説明するページ'
 keywords: ['materialized views', 'メダリオンアーキテクチャ']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -3,7 +3,6 @@ title: 'データの管理'
 description: 'オブザーバビリティのためのデータ管理'
 slug: /observability/managing-data
 keywords: ['オブザーバビリティ', 'ログ', 'トレース', 'メトリクス', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

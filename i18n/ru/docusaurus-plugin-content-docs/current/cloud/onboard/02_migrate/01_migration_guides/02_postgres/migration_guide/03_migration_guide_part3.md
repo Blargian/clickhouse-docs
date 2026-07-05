@@ -3,7 +3,6 @@ slug: /migrations/postgresql/data-modeling-techniques
 title: 'Подходы к моделированию данных'
 description: 'Часть 3 руководства по миграции с PostgreSQL на ClickHouse'
 keywords: ['postgres', 'postgresql']
-show_related_blogs: true
 sidebar_label: 'Часть 3'
 doc_type: 'guide'
 ---

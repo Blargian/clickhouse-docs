@@ -4,7 +4,6 @@ sidebar_label: 'Stack Overflow'
 slug: /getting-started/example-datasets/stackoverflow
 title: '使用 ClickHouse 分析 Stack Overflow 数据'
 keywords: ['StackOverflow']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

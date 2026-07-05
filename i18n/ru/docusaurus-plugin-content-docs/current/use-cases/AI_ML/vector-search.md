@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как QBit обеспечивает динамическую настройку точности запросов векторного поиска в ClickHouse.'
 keywords: ['QBit', 'vector search', 'AI', 'эмбеддинги', 'ANN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

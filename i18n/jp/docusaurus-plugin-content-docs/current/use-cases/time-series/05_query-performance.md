@@ -4,7 +4,6 @@ sidebar_label: 'クエリパフォーマンス'
 description: '時系列クエリパフォーマンスの向上'
 slug: /use-cases/time-series/query-performance
 keywords: ['time-series', 'query performance', 'optimization', 'indexing', 'partitioning', 'query tuning', 'performance']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

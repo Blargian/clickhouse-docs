@@ -5,7 +5,6 @@ sidebar_label: 'JSON 사용'
 title: 'JSON을 적절하게 사용하기'
 description: 'JSON을 언제 사용해야 하는지 설명하는 페이지'
 keywords: ['JSON']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、ClickHouse と Nessie カタログを使用してデータをクエリする手順を説明します。'
 keywords: ['Nessie', 'REST', 'トランザクション', 'データレイク', 'Iceberg', 'Git 風']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

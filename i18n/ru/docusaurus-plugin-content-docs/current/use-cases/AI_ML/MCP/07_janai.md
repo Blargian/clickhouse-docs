@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве объясняется, как настроить Jan.ai для работы с сервером ClickHouse MCP.'
 keywords: ['AI', 'Jan.ai', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

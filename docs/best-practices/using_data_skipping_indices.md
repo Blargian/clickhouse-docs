@@ -5,7 +5,6 @@ sidebar_label: 'Data skipping indices'
 title: 'Use data skipping indices where appropriate'
 description: 'Page describing how and when to use data skipping indices'
 keywords: ['data skipping index', 'skip index']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

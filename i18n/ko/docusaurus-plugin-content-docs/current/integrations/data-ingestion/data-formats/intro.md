@@ -5,7 +5,6 @@ sidebar_position: 1
 keywords: ['clickhouse', 'CSV', 'TSV', 'Parquet', 'clickhouse-client', 'clickhouse-local']
 title: '다양한 데이터 형식에서 ClickHouse로 가져오기'
 description: '다양한 데이터 형식을 ClickHouse로 가져오는 방법을 설명하는 페이지'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

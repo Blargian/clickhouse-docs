@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用存储在 ClickHouse 中的数据，借助 ClickHouse MCP 和 CopilotKit 构建智能体应用'
 keywords: ['ClickHouse', 'MCP', 'copilotkit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Microsoft Agent framework와 ClickHouse MCP server로 AI 에이전트를 구축하는 방법 알아보기'
 keywords: ['ClickHouse', 'MCP', 'Microsoft']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

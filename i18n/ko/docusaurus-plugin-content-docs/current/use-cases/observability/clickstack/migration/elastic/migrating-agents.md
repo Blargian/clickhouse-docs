@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '에이전트 마이그레이션'
 sidebar_position: 5
 description: 'Elastic에서 에이전트 마이그레이션'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

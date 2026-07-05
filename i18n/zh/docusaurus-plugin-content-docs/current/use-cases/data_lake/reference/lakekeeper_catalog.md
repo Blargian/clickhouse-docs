@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '在本指南中，我们将逐步演示如何结合使用 ClickHouse 和 Lakekeeper 目录 来查询您的数据。'
 keywords: ['Lakekeeper', 'REST', 'Tabular', 'Data Lake', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

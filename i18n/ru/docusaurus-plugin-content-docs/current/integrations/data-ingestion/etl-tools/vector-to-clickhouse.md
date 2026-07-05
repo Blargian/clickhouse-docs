@@ -4,7 +4,6 @@ sidebar_position: 220
 slug: /integrations/vector
 description: 'Как передавать данные из файла журнала в ClickHouse с помощью Vector'
 title: 'Интеграция Vector с ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'partner'

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '이 가이드에서는 ClickHouse와 REST 카탈로그를 사용하여 데이터를 쿼리하는 방법을 단계별로 안내합니다.'
 keywords: ['REST', 'Tabular', '데이터 레이크', 'Iceberg']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

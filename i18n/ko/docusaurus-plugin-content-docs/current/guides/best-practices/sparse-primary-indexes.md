@@ -4,7 +4,6 @@ sidebar_position: 1
 description: '이 가이드에서는 ClickHouse 인덱싱을 심층적으로 살펴봅니다.'
 title: 'ClickHouse 프라이머리 인덱스에 대한 실용적인 소개'
 slug: /guides/best-practices/sparse-primary-indexes
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['프라이머리 인덱스', '인덱싱', '성능', '쿼리 최적화', '모범 사례']
 ---

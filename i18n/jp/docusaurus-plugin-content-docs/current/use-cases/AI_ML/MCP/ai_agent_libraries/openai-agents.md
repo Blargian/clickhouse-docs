@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCPサーバーと対話できる OpenAI エージェントを構築する方法を学びます。'
 keywords: ['ClickHouse', 'MCP', 'OpenAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

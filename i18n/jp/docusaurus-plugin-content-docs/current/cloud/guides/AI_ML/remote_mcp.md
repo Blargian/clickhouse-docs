@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'このガイドでは、ClickHouse Cloud Remote MCP を有効にして使用する方法を説明します'
 keywords: ['AI', 'ClickHouse Cloud', 'MCP']
-show_related_blogs: true
 sidebar_position: 1
 doc_type: 'guide'
 ---

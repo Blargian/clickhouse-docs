@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Streamlit と ClickHouse MCPサーバーを使って Web ベースの AI エージェントを構築する方法を学びます'
 keywords: ['ClickHouse', 'MCP', 'Streamlit', 'Agno', 'AI エージェント']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

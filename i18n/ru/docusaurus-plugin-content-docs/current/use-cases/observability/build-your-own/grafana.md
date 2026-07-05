@@ -3,7 +3,6 @@ title: "Использование Grafana и ClickHouse для обсерваб
 description: "Использование Grafana и ClickHouse для обсервабилити"
 slug: /observability/grafana
 keywords: ['Observability', 'logs', 'traces', 'metrics', 'OpenTelemetry', 'Grafana', 'OTel']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

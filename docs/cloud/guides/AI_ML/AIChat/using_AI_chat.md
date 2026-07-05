@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Guide to enabling and using the AI Chat feature in ClickHouse Cloud Console'
 keywords: ['AI', 'ClickHouse Cloud', 'Chat', 'SQL Console', 'Agent', 'Docs AI']
-show_related_blogs: true
 sidebar_position: 2
 doc_type: 'guide'
 ---

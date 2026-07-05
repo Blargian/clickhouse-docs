@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Learn how build an AI Agent with Agno and the ClickHouse MCP server'
 keywords: ['ClickHouse', 'MCP', 'Agno']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

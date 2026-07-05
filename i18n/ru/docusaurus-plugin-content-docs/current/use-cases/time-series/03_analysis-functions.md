@@ -4,7 +4,6 @@ sidebar_label: 'Функции анализа'
 description: 'Функции для анализа данных временных рядов в ClickHouse.'
 slug: /use-cases/time-series/analysis-functions
 keywords: ['временные ряды', 'функции анализа', 'оконные функции', 'агрегатные функции', 'скользящие средние', 'анализ трендов']
-show_related_blogs: true
 doc_type: 'reference'
 ---
 

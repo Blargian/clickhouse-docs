@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: 'Миграция данных'
 sidebar_position: 4
 description: 'Миграция данных в ClickHouse Observability Stack из Elastic'
-show_related_blogs: true
 keywords: ['ClickStack']
 doc_type: 'guide'
 ---

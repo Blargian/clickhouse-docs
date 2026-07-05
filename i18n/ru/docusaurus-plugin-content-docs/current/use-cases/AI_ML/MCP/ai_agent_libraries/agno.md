@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как создать агента ИИ с помощью Agno и MCP-сервера ClickHouse'
 keywords: ['ClickHouse', 'MCP', 'Agno']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

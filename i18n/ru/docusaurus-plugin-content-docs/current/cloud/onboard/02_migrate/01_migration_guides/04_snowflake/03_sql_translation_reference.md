@@ -4,7 +4,6 @@ slug: /migrations/snowflake-translation-reference
 description: 'Справочник по преобразованию SQL'
 keywords: ['Snowflake']
 title: 'Миграция с Snowflake на ClickHouse'
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

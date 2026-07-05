@@ -5,7 +5,6 @@ title: '查询 ClickHouse 数据'
 slug: /guides/writing-queries
 description: '了解如何查询 ClickHouse 数据'
 keywords: ['SELECT', '数据格式']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

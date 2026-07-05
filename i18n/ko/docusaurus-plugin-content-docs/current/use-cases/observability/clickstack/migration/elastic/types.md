@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '타입'
 sidebar_position: 2
 description: 'ClickHouse와 Elasticsearch의 매핑 타입'
-show_related_blogs: true
 keywords: ['JSON', 'Codecs']
 doc_type: 'reference'
 ---

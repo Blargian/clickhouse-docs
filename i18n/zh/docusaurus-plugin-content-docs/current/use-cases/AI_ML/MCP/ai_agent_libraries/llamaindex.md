@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何构建一个可与 ClickHouse MCP server 交互的 LlamaIndex AI 智能体。'
 keywords: ['ClickHouse', 'MCP', 'LlamaIndex']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

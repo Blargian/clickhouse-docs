@@ -4,7 +4,6 @@ sidebar_position: 1
 description: 'В этом руководстве мы подробно рассмотрим индексацию в ClickHouse.'
 title: 'Практическое введение в первичные индексы ClickHouse'
 slug: /guides/best-practices/sparse-primary-indexes
-show_related_blogs: true
 doc_type: 'guide'
 keywords: ['первичный индекс', 'индексация', 'производительность', 'оптимизация запросов', 'лучшие практики']
 ---

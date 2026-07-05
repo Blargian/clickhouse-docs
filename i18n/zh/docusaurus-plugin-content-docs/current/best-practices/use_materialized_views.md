@@ -5,7 +5,6 @@ sidebar_label: '使用materialized view'
 title: '使用materialized view'
 description: '介绍materialized view的页面'
 keywords: ['materialized views', 'medallion architecture']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

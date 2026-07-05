@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Agno와 ClickHouse MCP 서버로 AI 에이전트를 구축하는 방법을 알아봅니다'
 keywords: ['ClickHouse', 'MCP', 'Agno']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

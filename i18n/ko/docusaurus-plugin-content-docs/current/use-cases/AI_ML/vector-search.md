@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'QBit이 ClickHouse의 벡터 검색 쿼리에 대해 런타임에 정밀도를 조정할 수 있는 튜닝 기능을 어떻게 제공하는지 알아봅니다.'
 keywords: ['QBit', '벡터 검색', 'AI', 'embeddings', 'ANN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

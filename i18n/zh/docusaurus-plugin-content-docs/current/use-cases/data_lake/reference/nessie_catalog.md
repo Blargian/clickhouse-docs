@@ -7,7 +7,6 @@ pagination_next: null
 description: '在本指南中，我们将分步骤介绍如何使用 ClickHouse 和 Nessie Catalog
  来查询您的数据。'
 keywords: ['Nessie', 'REST', '事务型', '数据湖', 'Iceberg', '类似 Git']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

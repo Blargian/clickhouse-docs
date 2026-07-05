@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'В этом руководстве мы покажем, как выполнять запросы к данным в Microsoft OneLake.'
 keywords: ['OneLake', 'озера данных', 'Fabric']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

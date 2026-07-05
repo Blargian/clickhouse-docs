@@ -6,7 +6,6 @@ pagination_next: null
 sidebar_label: '概览'
 sidebar_position: 0
 description: '从 Elastic 迁移到 ClickHouse 可观测性栈的概览'
-show_related_blogs: true
 keywords: ['Elasticsearch']
 doc_type: 'guide'
 ---

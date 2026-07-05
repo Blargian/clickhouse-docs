@@ -4,7 +4,6 @@ sidebar_label: '存储效率'
 description: '提升时序数据的存储效率'
 slug: /use-cases/time-series/storage-efficiency
 keywords: ['time-series', 'storage efficiency', 'compression', 'data retention', 'TTL', 'storage optimization', 'disk usage']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

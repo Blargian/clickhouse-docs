@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'CrewAI와 ClickHouse MCP 서버를 사용하여 AI 에이전트를 구축하는 방법을 알아보세요'
 keywords: ['ClickHouse', 'MCP', 'CrewAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

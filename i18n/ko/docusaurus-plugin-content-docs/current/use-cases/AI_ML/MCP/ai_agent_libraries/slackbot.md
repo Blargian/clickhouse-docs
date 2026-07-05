@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCP 서버와 상호작용할 수 있는 SlackBot 에이전트를 구축하는 방법을 알아봅니다.'
 keywords: ['ClickHouse', 'MCP', 'Slack', 'SlackBot', 'PydanticAI']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

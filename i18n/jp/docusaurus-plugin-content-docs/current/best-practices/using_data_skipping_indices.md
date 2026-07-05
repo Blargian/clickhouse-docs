@@ -5,7 +5,6 @@ sidebar_label: 'データスキッピングインデックス'
 title: '適切な場所でデータスキッピングインデックスを使用する'
 description: 'データスキッピングインデックスの使用方法とタイミングを説明するページ'
 keywords: ['data skipping index', 'skip index']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -5,7 +5,6 @@ title: 'ClickHouse データの選択'
 slug: /guides/writing-queries
 description: 'ClickHouse データの選択方法を学ぶ'
 keywords: ['SELECT', 'データフォーマット']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Learn how QBit enables runtime-adjustable precision tuning for vector search queries in ClickHouse.'
 keywords: ['QBit', 'vector search', 'AI', 'embeddings', 'ANN']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

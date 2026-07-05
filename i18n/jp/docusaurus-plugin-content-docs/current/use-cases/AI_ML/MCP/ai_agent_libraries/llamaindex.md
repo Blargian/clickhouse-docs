@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCPサーバー と対話できる LlamaIndex AI エージェントの構築方法を学びます。'
 keywords: ['ClickHouse', 'MCP', 'LlamaIndex']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

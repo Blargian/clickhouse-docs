@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Claude Agent SDK と ClickHouse MCPサーバー を使って AI エージェントを構築する方法を学びます'
 keywords: ['ClickHouse', 'MCP', 'Claude']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

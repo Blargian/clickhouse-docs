@@ -3,7 +3,6 @@ title: 'BigQuery から ClickHouse Cloud への移行'
 slug: /migrations/bigquery/migrating-to-clickhouse-cloud
 description: 'BigQuery のデータを ClickHouse Cloud に移行する方法'
 keywords: ['BigQuery']
-show_related_blogs: true
 sidebar_label: '移行ガイド'
 doc_type: 'guide'
 ---

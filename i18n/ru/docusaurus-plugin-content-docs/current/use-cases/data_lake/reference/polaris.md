@@ -7,7 +7,6 @@ pagination_next: null
 description: 'В этом руководстве мы пошагово покажем, как выполнять запросы к
  вашим данным с помощью ClickHouse и каталога Snowflake Polaris.'
 keywords: ['Polaris', 'Snowflake', 'озера данных']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

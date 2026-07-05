@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Узнайте, как использовать Chainlit для создания чат-приложений на базе LLM совместно с MCP-сервером ClickHouse'
 keywords: ['ClickHouse', 'MCP', 'Chainlit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

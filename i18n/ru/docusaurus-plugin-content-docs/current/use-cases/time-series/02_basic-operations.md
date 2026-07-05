@@ -4,7 +4,6 @@ sidebar_label: 'Базовые операции'
 description: 'Базовые операции с временными рядами в ClickHouse.'
 slug: /use-cases/time-series/basic-operations
 keywords: ['временные ряды', 'базовые операции', 'ингестия данных', 'запросы', 'фильтрация', 'группировка', 'агрегация']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

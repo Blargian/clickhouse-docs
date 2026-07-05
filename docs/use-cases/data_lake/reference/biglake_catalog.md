@@ -7,7 +7,6 @@ pagination_next: null
 description: 'In this guide, we will walk you through the steps to query
  your data in Google Cloud Storage using ClickHouse and the Lakehouse runtime Catalog (BigLake Metastore).'
 keywords: ['BigLake', 'GCS', 'Data Lake', 'Iceberg', 'Google Cloud', 'Lakehouse Runtime Catalog']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

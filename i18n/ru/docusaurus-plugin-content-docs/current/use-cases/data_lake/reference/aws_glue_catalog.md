@@ -7,7 +7,6 @@ pagination_next: null
 description: 'В этом руководстве мы пошагово покажем, как выполнять запросы к
  вашим данным в S3 бакетах с помощью ClickHouse и каталога данных Glue.'
 keywords: ['Glue', 'озера данных']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

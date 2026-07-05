@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '本ガイドでは、ClickHouse MCP サーバーと Ollama を連携させる方法を説明します。'
 keywords: ['AI', 'Ollama', 'MCP']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

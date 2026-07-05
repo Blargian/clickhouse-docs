@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'In this guide, we will walk you through the steps to query your data in Microsoft OneLake.'
 keywords: ['OneLake', 'Data Lake', 'Fabric']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

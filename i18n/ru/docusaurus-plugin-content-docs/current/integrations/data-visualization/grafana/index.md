@@ -4,7 +4,6 @@ sidebar_position: 1
 slug: /integrations/grafana
 description: 'Введение в использование ClickHouse с Grafana'
 title: 'Плагин источника данных ClickHouse для Grafana'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'core'

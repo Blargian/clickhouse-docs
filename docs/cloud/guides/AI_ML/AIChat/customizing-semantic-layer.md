@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'Guide to using AGENTS.md to provide custom business logic and data-specific instructions to the ClickHouse Assistant chat agent'
 keywords: ['AI', 'ClickHouse Cloud', 'Agent', 'AGENTS.md', 'Semantic Layer', 'Custom Instructions', 'System Prompt']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: 'ClickHouse MCP と CopilotKit を使用して、ClickHouse に保存されているデータを利用するエージェント型アプリケーションを構築する方法を学びます'
 keywords: ['ClickHouse', 'MCP', 'copilotkit']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

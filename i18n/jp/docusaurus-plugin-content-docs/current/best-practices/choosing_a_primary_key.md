@@ -5,7 +5,6 @@ sidebar_label: '主キーの選び方'
 title: '主キーの選び方'
 description: 'ClickHouse における主キーの選び方を説明するページ'
 keywords: ['主キー']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

@@ -6,7 +6,6 @@ pagination_prev: null
 pagination_next: null
 description: '了解如何使用 Claude Agent SDK 和 ClickHouse MCP 服务器 构建 AI agent'
 keywords: ['ClickHouse', 'MCP', 'Claude']
-show_related_blogs: true
 doc_type: 'guide'
 ---
 

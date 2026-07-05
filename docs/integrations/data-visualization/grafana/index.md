@@ -4,7 +4,6 @@ sidebar_position: 1
 slug: /integrations/grafana
 description: 'Introduction to using ClickHouse with Grafana'
 title: 'ClickHouse data source plugin for Grafana'
-show_related_blogs: true
 doc_type: 'guide'
 integration:
   - support_level: 'core'
